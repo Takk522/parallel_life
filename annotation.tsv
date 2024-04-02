@@ -1,0 +1,910 @@
+Accession	Begin	End	Chromosome	Orientation	Name	Symbol	Gene ID	Gene Type	Transcripts accession	Protein accession	Protein length	Locus tag
+CP000123.1	1	1353		plus	chromosomal replication initiator protein DnaA	dnaA	0	protein-coding		ABC01518.1	450	MCAP_0001
+CP000123.1	1518	2645		plus	DNA polymerase III, beta subunit	dnaN	0	protein-coding		ABC01687.1	375	MCAP_0002
+CP000123.1	2682	3224		plus	primase-related protein		0	protein-coding		ABC01791.1	180	MCAP_0003
+CP000123.1	3214	4014		plus	dimethyladenosine transferase	ksgA	0	protein-coding		ABC01116.1	266	MCAP_0004
+CP000123.1	4069	5163		plus	membrane protein, putative		0	protein-coding		ABC01327.1	364	MCAP_0005
+CP000123.1	5232	5308		plus	uncharacterized gene	mcs1	0	misc_RNA				MCAP_0006
+CP000123.1	5232	5308		plus	4.5S RNA	mcs1	0	other				MCAP_0006
+CP000123.1	5328	5771		plus	cytidine/deoxycytidylate deaminase zinc-binding domain protein		0	protein-coding		ABC01127.1	147	MCAP_0007
+CP000123.1	5851	7860		plus	DNA polymerase III gamma-tau subunits	dnaX	0	protein-coding		ABC01848.1	669	MCAP_0008
+CP000123.1	7862	8452		plus	DNA repair protein RecM	recM	0	protein-coding		ABC01194.1	196	MCAP_0009
+CP000123.1	8455	9096		plus	thymidylate kinase	tmk	0	protein-coding		ABC01235.1	213	MCAP_0010
+CP000123.1	9074	9817		plus	DNA polymerase III, delta prime subunit		0	protein-coding		ABC01429.1	247	MCAP_0011
+CP000123.1	9877	10539		plus	N-6 adenine-specific DNA methylases, putative		0	protein-coding		ABC01339.1	220	MCAP_0012
+CP000123.1	10590	11411		plus	conserved hypothetical protein		0	protein-coding		ABC01672.1	273	MCAP_0013
+CP000123.1	11416	12621		plus	conserved hypothetical protein		0	protein-coding		ABC01528.1	401	MCAP_0014
+CP000123.1	12618	13454		minus	hypothetical protein		0	protein-coding		ABC01845.1	278	MCAP_0015
+CP000123.1	13475	13569		minus	uncharacterized gene	mcs2	0	misc_RNA				MCAP_0016
+CP000123.1	13475	13569		minus	MCS2 RNA	mcs2	0	other				MCAP_0016
+CP000123.1	13687	15639		plus	ATP-dependent metalloprotease FtsH	ftsH	0	protein-coding		ABC01758.1	650	MCAP_0017
+CP000123.1	16712	22105		minus	membrane protein, putative		0	protein-coding		ABC01646.1	1797	MCAP_0018
+CP000123.1	22249	25407		plus	membrane protein, putative		0	protein-coding		ABC01836.1	1052	MCAP_0019
+CP000123.1	25583	26449		plus	33 kDa chaperonin (Heat shock protein 33 homolog) (HSP33)	hslO	0	protein-coding		ABC01567.1	288	MCAP_0020
+CP000123.1	26497	27534		plus	ABC transporter, ATP-binding protein		0	protein-coding		ABC01625.1	345	MCAP_0021
+CP000123.1	27586	28185		minus	acyl carrier protein phosphodiesterase, putative		0	protein-coding		ABC01323.1	199	MCAP_0022
+CP000123.1	28374	28580		plus	cold shock protein		0	protein-coding		ABC01513.1	68	MCAP_0023
+CP000123.1	28783	29196		plus	30S ribosomal protein S6	rpsF	0	protein-coding		ABC01145.1	137	MCAP_0024
+CP000123.1	29212	29652		plus	single-strand DNA-binding protein	ssb	0	protein-coding		ABC01141.1	146	MCAP_0025
+CP000123.1	29671	29898		plus	30S ribosomal protein S18	rpsR	0	protein-coding		ABC01690.1	75	MCAP_0026
+CP000123.1	30594	31982		plus	conserved hypothetical protein		0	protein-coding		ABC01253.1	462	MCAP_0027
+CP000123.1	32257	33810		plus	PTS system, mannitol-specific IIBC component, putative		0	protein-coding		ABC01170.1	517	MCAP_0028
+CP000123.1	33810	34568		plus	oxidoreductase, short chain dehydrogenase/reductase family		0	protein-coding		ABC01820.1	252	MCAP_0029
+CP000123.1	34568	34813		plus	PTS system, mannitol-specific IIA component, putative		0	protein-coding		ABC01746.1	81	MCAP_0030
+CP000123.1	35027	35824		plus	phosphosugar-binding transcriptional regulator, RpiR family, putative		0	protein-coding		ABC01658.1	265	MCAP_0031
+CP000123.1	35825	36829		plus	mannitol-1-phosphate 5-dehydrogenase, putative		0	protein-coding		ABC01564.1	334	MCAP_0032
+CP000123.1	36866	38458		minus	lipoprotein, putative (LppA)		0	protein-coding		ABC01114.1	530	MCAP_0033
+CP000123.1	38483	40042		minus	lipoprotein, putative (LppA family)		0	protein-coding		ABC01414.1	519	MCAP_0034
+CP000123.1	40240	41769		plus	methionyl-tRNA synthetase	metG	0	protein-coding		ABC01819.1	509	MCAP_0035
+CP000123.1	41953	43596		plus	uncharacterized gene		0	pseudogene				MCAP_0036
+CP000123.1	43614	45221		plus	ABC transporter, ATP-binding protein		0	protein-coding		ABC01656.1	535	MCAP_0037
+CP000123.1	45211	47769		plus	ABC transporter, permease protein		0	protein-coding		ABC01285.1	852	MCAP_0038
+CP000123.1	47772	48749		plus	ABC transporter, permease protein		0	protein-coding		ABC01174.1	325	MCAP_0039
+CP000123.1	48817	51204		minus	DNA gyrase, A subunit	gyrA	0	protein-coding		ABC01443.1	795	MCAP_0040
+CP000123.1	51336	53240		minus	DNA gyrase, B subunit	gyrB	0	protein-coding		ABC01338.1	634	MCAP_0041
+CP000123.1	53640	55241		minus	lipoprotein, putative		0	protein-coding		ABC01084.1	533	MCAP_0042
+CP000123.1	55409	56182		minus	membrane protein, putative		0	protein-coding		ABC01122.1	257	MCAP_0043
+CP000123.1	56166	56888		minus	membrane protein, putative		0	protein-coding		ABC01400.1	240	MCAP_0044
+CP000123.1	56998	59832		minus	preprotein translocase, SecA subunit	secA	0	protein-coding		ABC01329.1	944	MCAP_0045
+CP000123.1	59912	60487		plus	conserved hypothetical protein		0	protein-coding		ABC01631.1	191	MCAP_0046
+CP000123.1	60583	61497		plus	5-3 exonuclease family protein		0	protein-coding		ABC01514.1	304	MCAP_0047
+CP000123.1	61692	62708		plus	adenine-specific DNA methylase, putative		0	protein-coding		ABC01801.1	338	MCAP_0048
+CP000123.1	62638	63615		plus	DNA adenine methylase	dam	0	protein-coding		ABC01082.1	325	MCAP_0049
+CP000123.1	63593	65170		plus	restriction endonuclease		0	protein-coding		ABC01183.1	525	MCAP_0050
+CP000123.1	65160	66642		plus	uncharacterized gene		0	pseudogene				MCAP_0051
+CP000123.1	66644	67114		plus	hypothetical protein		0	protein-coding		ABC01483.1	156	MCAP_0052
+CP000123.1	67839	68114		plus	conserved hypothetical protein		0	protein-coding		ABC01824.1	91	MCAP_0053
+CP000123.1	68104	68670		plus	dephospho-CoA kinase		0	protein-coding		ABC01831.1	188	MCAP_0054
+CP000123.1	68672	69481		minus	hemolysin A		0	protein-coding		ABC01094.1	269	MCAP_0055
+CP000123.1	69481	69696		minus	hypothetical protein		0	protein-coding		ABC01095.1	71	MCAP_0056
+CP000123.1	69689	71095		minus	exodeoxyribonuclease VII, large subunit	xseA	0	protein-coding		ABC01348.1	468	MCAP_0057
+CP000123.1	71097	71495		minus	N utilization substance protein B (nusB), putative		0	protein-coding		ABC01468.1	132	MCAP_0058
+CP000123.1	71507	72577		minus	lipoprotein, putative		0	protein-coding		ABC01324.1	356	MCAP_0059
+CP000123.1	72604	73473		minus	endonuclease IV		0	protein-coding		ABC01147.1	289	MCAP_0060
+CP000123.1	73466	74218		minus	riboflavin kinase / FAD synthetase family protein		0	protein-coding		ABC01852.1	250	MCAP_0061
+CP000123.1	74293	74368		minus	uncharacterized gene		0	tRNA				MCAP_0062
+CP000123.1	74293	74368		minus	tRNA-Lys		0	other				MCAP_0062
+CP000123.1	74775	76349		plus	glycosyl transferase, group 2 family protein		0	protein-coding		ABC01535.1	524	MCAP_0063
+CP000123.1	76352	77230		plus	UTP-glucose-1-phosphate uridylyltransferase		0	protein-coding		ABC01257.1	292	MCAP_0064
+CP000123.1	77432	77860		plus	50S ribosomal protein L11	rplK	0	protein-coding		ABC01745.1	142	MCAP_0065
+CP000123.1	77860	78540		plus	ribosomal protein L1	rplA	0	protein-coding		ABC01455.1	226	MCAP_0066
+CP000123.1	78769	79266		plus	50S ribosomal protein L10	rplJ	0	protein-coding		ABC01175.1	165	MCAP_0067
+CP000123.1	79342	79710		plus	50S ribosomal protein L7/L12	rplL	0	protein-coding		ABC01611.1	122	MCAP_0068
+CP000123.1	79881	81053		plus	hypothetical protein		0	protein-coding		ABC01349.1	390	MCAP_0069
+CP000123.1	81043	84906		plus	DNA-directed RNA polymerase, beta subunit	rpoB	0	protein-coding		ABC01305.1	1287	MCAP_0070
+CP000123.1	84918	88685		plus	DNA-directed RNA polymerase beta' subunit	rpoC	0	protein-coding		ABC01241.1	1255	MCAP_0071
+CP000123.1	88775	90964		plus	lipoprotein, putative		0	protein-coding		ABC01450.1	729	MCAP_0072
+CP000123.1	90971	91276		minus	Conserved hypothetical protein		0	protein-coding		ABC01560.1	101	MCAP_0073
+CP000123.1	91301	91798		plus	ribose 5-phosphate isomerase B, putative		0	protein-coding		ABC01652.1	165	MCAP_0074
+CP000123.1	91782	93023		plus	serine hydroxymethyltransferase	glyA	0	protein-coding		ABC01749.1	413	MCAP_0075
+CP000123.1	93125	93748		plus	uracil phosphoribosyltransferase	upp	0	protein-coding		ABC01714.1	207	MCAP_0076
+CP000123.1	93889	94287		plus	membrane protein, putative		0	protein-coding		ABC01817.1	132	MCAP_0077
+CP000123.1	94287	95147		plus	ATP synthase F0, subunit A	atpB	0	protein-coding		ABC01220.1	286	MCAP_0078
+CP000123.1	95186	95491		plus	ATP synthase F0, subunit c	atpE	0	protein-coding		ABC01331.1	101	MCAP_0079
+CP000123.1	95519	96064		plus	ATP synthase F0, B subunit	atpF	0	protein-coding		ABC01622.1	181	MCAP_0080
+CP000123.1	96066	96611		plus	ATP synthase F1, delta subunit	atpH	0	protein-coding		ABC01307.1	181	MCAP_0081
+CP000123.1	96623	98200		plus	ATP synthase F1, alpha subunit	atpA1	0	protein-coding		ABC01292.1	525	MCAP_0082
+CP000123.1	98202	99044		plus	ATP synthase F1, gamma subunit	atpG	0	protein-coding		ABC01392.1	280	MCAP_0083
+CP000123.1	99053	100483		plus	ATP synthase F1, beta subunit	atpD1	0	protein-coding		ABC01548.1	476	MCAP_0084
+CP000123.1	100483	100782		plus	ATP synthase F1, epsilon subunit	atpC	0	protein-coding		ABC01844.1	99	MCAP_0085
+CP000123.1	100840	102051		minus	membrane protein, putative		0	protein-coding		ABC01722.1	403	MCAP_0086
+CP000123.1	102390	105218		plus	magnesium-translocating P-type ATPase	mgtA	0	protein-coding		ABC01176.1	942	MCAP_0087
+CP000123.1	105679	105813		minus	membrane protein, putative		0	protein-coding		ABC01146.1	44	MCAP_0088
+CP000123.1	105998	107209		plus	arginine deiminase	arcA	0	protein-coding		ABC01474.1	403	MCAP_0089
+CP000123.1	107227	108222		plus	ornithine carbamoyltransferase, catabolic	arcB	0	protein-coding		ABC01516.1	331	MCAP_0090
+CP000123.1	108285	109754		plus	transporter, putative		0	protein-coding		ABC01411.1	489	MCAP_0091
+CP000123.1	110217	111184		minus	uncharacterized gene		0	pseudogene				MCAP_0092
+CP000123.1	111276	112403		minus	beta-lactamase, putative		0	protein-coding		ABC01080.1	375	MCAP_0093
+CP000123.1	112508	114721		minus	PTS system, glucose-specific IIABC component	ptsG	0	protein-coding		ABC01785.1	737	MCAP_0094
+CP000123.1	115141	115629		minus	membrane protein, putative		0	protein-coding		ABC01330.1	162	MCAP_0095
+CP000123.1	115629	116075		minus	SsrA-binding protein	smpB	0	protein-coding		ABC01243.1	148	MCAP_0096
+CP000123.1	116085	118199		minus	Rnase R (VacB) and RNase II family 3'-5' exoribonucleases		0	protein-coding		ABC01595.1	704	MCAP_0097
+CP000123.1	118235	118591		minus	preprotein translocase, SecG subunit, putative		0	protein-coding		ABC01489.1	118	MCAP_0098
+CP000123.1	118773	119792		plus	ribonucleoside-diphosphate reductase, beta subunit	nrdF	0	protein-coding		ABC01624.1	339	MCAP_0099
+CP000123.1	119802	120275		plus	nrdI protein	nrdI	0	protein-coding		ABC01681.1	157	MCAP_0100
+CP000123.1	120262	122424		plus	ribonucleoside-diphosphate reductase 2, alpha subunit	nrdE	0	protein-coding		ABC01236.1	720	MCAP_0101
+CP000123.1	122386	122675		plus	uncharacterized gene	mcs4b	0	misc_RNA				MCAP_0103
+CP000123.1	122386	122675		plus	MCS4 RNA	mcs4b	0	other				MCAP_0103
+CP000123.1	122709	123743		plus	phosphoribosylpyrophosphate synthase	prs	0	protein-coding		ABC01821.1	344	MCAP_0104
+CP000123.1	124048	124608		plus	peptidyl-tRNA hydrolase	pth	0	protein-coding		ABC01846.1	186	MCAP_0105
+CP000123.1	124739	125182		plus	50S ribosomal protein L9	rplI	0	protein-coding		ABC01716.1	147	MCAP_0106
+CP000123.1	125184	126512		plus	replicative DNA helicase	dnaC	0	protein-coding		ABC01225.1	442	MCAP_0107
+CP000123.1	126601	127863		plus	hypothetical protein		0	protein-coding		ABC01341.1	420	MCAP_0108
+CP000123.1	127990	128916		plus	membrane protein, putative		0	protein-coding		ABC01440.1	308	MCAP_0109
+CP000123.1	128925	130250		plus	cysteinyl-tRNA synthetase	cysS	0	protein-coding		ABC01549.1	441	MCAP_0110
+CP000123.1	130252	130986		plus	RNA methyltransferase, TrmH family, group 3		0	protein-coding		ABC01291.1	244	MCAP_0111
+CP000123.1	131047	131208		plus	50S ribosomal protein L33	rpmG	0	protein-coding		ABC01732.1	53	MCAP_0112
+CP000123.1	131208	131522		plus	preprotein translocase, SecE subunit, putative	secE	0	protein-coding		ABC01829.1	104	MCAP_0113
+CP000123.1	131539	132183		plus	transcription antitermination protein NusG	nusG	0	protein-coding		ABC01399.1	214	MCAP_0114
+CP000123.1	132631	138528		plus	membrane protein, putative		0	protein-coding		ABC01302.1	1965	MCAP_0115
+CP000123.1	138537	141491		plus	oligopeptide ABC transporter, oligopeptide-binding protein, putative		0	protein-coding		ABC01161.1	984	MCAP_0116
+CP000123.1	141491	142564		plus	oligopeptide ABC transporter, permease protein		0	protein-coding		ABC01494.1	357	MCAP_0117
+CP000123.1	142566	143576		plus	oligopeptide ABC transporter, permease protein		0	protein-coding		ABC01815.1	336	MCAP_0118
+CP000123.1	143655	145028		plus	oligopeptide ABC transporter, ATP-binding protein		0	protein-coding		ABC01372.1	457	MCAP_0119
+CP000123.1	145104	146357		plus	oligopeptide ABC transporter, ATP-binding protein		0	protein-coding		ABC01129.1	417	MCAP_0120
+CP000123.1	146389	146817		minus	membrane protein, putative		0	protein-coding		ABC01674.1	142	MCAP_0121
+CP000123.1	146872	147651		plus	membrane protein, putative		0	protein-coding		ABC01724.1	259	MCAP_0122
+CP000123.1	147705	149243		plus	ABC transporter, ATP-binding protein		0	protein-coding		ABC01298.1	512	MCAP_0123
+CP000123.1	149275	150072		minus	hydrolase, TatD family		0	protein-coding		ABC01642.1	265	MCAP_0124
+CP000123.1	150259	151485		plus	threonine dehydratase	ilvA	0	protein-coding		ABC01520.1	408	MCAP_0125
+CP000123.1	151701	153290		plus	membrane protein, putative		0	protein-coding		ABC01209.1	529	MCAP_0126
+CP000123.1	153295	154158		plus	membrane protein, putative		0	protein-coding		ABC01332.1	287	MCAP_0127
+CP000123.1	154344	155120		plus	glucosamine-6-phosphate isomerase	nagB2	0	protein-coding		ABC01795.1	258	MCAP_0128
+CP000123.1	155124	156806		plus	PTS system, N-acetylglucosamine-specific IIBC component, putative		0	protein-coding		ABC01850.1	560	MCAP_0129
+CP000123.1	156937	158388		plus	glutamyl-tRNA synthetase	gltX	0	protein-coding		ABC01842.1	483	MCAP_0130
+CP000123.1	158391	159604		plus	uncharacterized gene		0	pseudogene				MCAP_0131
+CP000123.1	159630	160067		plus	DNA-directed RNA polymerase, delta subunit, putative		0	protein-coding		ABC01275.1	145	MCAP_0132
+CP000123.1	160160	161758		plus	CTP synthase	pyrG	0	protein-coding		ABC01602.1	532	MCAP_0133
+CP000123.1	162260	163033		plus	membrane protein, putative		0	protein-coding		ABC01509.1	257	MCAP_0134
+CP000123.1	163048	164022		plus	membrane protein, putative		0	protein-coding		ABC01741.1	324	MCAP_0135
+CP000123.1	164174	165067		plus	fructose-1,6-bisphosphate aldolase, class II	fba	0	protein-coding		ABC01691.1	297	MCAP_0136
+CP000123.1	165285	166778		minus	membrane protein, putative		0	protein-coding		ABC01138.1	497	MCAP_0137
+CP000123.1	166983	168434		plus	membrane protein, putative		0	protein-coding		ABC01267.1	483	MCAP_0138
+CP000123.1	168519	169235		plus	glycerophosphoryl diester phosphodiesterase family		0	protein-coding		ABC01556.1	238	MCAP_0139
+CP000123.1	169372	169650		plus	ribosomal protein L31	rpmE	0	protein-coding		ABC01653.1	92	MCAP_0140
+CP000123.1	169725	171653		plus	hypothetical protein		0	protein-coding		ABC01666.1	642	MCAP_0141
+CP000123.1	171663	172613		plus	DHH phosphoesterase family protein, putative		0	protein-coding		ABC01359.1	316	MCAP_0142
+CP000123.1	172616	173245		plus	thymidine kinase	tdk	0	protein-coding		ABC01477.1	209	MCAP_0143
+CP000123.1	173248	174339		plus	peptide chain release factor 1	prfA	0	protein-coding		ABC01154.1	363	MCAP_0144
+CP000123.1	174332	175144		plus	modification methylase, HemK family		0	protein-coding		ABC01101.1	270	MCAP_0145
+CP000123.1	175190	176662		plus	membrane protein, putative		0	protein-coding		ABC01356.1	490	MCAP_0146
+CP000123.1	176671	177171		plus	conserved hypothetical protein		0	protein-coding		ABC01261.1	166	MCAP_0147
+CP000123.1	177239	178192		plus	conserved hypothetical protein		0	protein-coding		ABC01085.1	317	MCAP_0148
+CP000123.1	178316	179023		plus	membrane protein, putative		0	protein-coding		ABC01881.1	235	MCAP_0149
+CP000123.1	179023	180552		plus	cardiolipin synthetase, putative		0	protein-coding		ABC01148.1	509	MCAP_0150
+CP000123.1	180658	181095		plus	30S ribosomal protein S12	rpsL	0	protein-coding		ABC01614.1	145	MCAP_0151
+CP000123.1	181185	181652		plus	30S ribosomal protein S7	rpsG	0	protein-coding		ABC01748.1	155	MCAP_0152
+CP000123.1	181679	183748		plus	translation elongation factor G	fusA	0	protein-coding		ABC01383.1	689	MCAP_0153
+CP000123.1	183880	185067		plus	translation elongation factor Tu	tuf	0	protein-coding		ABC01493.1	395	MCAP_0154
+CP000123.1	185190	187031		plus	PTS system, IIBC component, putative		0	protein-coding		ABC01472.1	613	MCAP_0155
+CP000123.1	187015	189282		plus	isoglycosyl hydrolases family 31, putative		0	protein-coding		ABC01847.1	755	MCAP_0156
+CP000123.1	189469	190824		plus	cytosol aminopeptidase	pepA1	0	protein-coding		ABC01289.1	451	MCAP_0157
+CP000123.1	191048	192213		minus	uncharacterized gene		0	pseudogene				MCAP_0158
+CP000123.1	192390	195080		minus	alanyl-tRNA synthetase	alaS	0	protein-coding		ABC01717.1	896	MCAP_0159
+CP000123.1	195149	195643		minus	membrane protein, putative		0	protein-coding		ABC01628.1	164	MCAP_0160
+CP000123.1	195862	197106		plus	oligopeptide ABC transporter, permease protein, putative		0	protein-coding		ABC01160.1	414	MCAP_0161
+CP000123.1	197122	198132		plus	oligopeptide ABC transporter, permease protein, putative		0	protein-coding		ABC01830.1	336	MCAP_0162
+CP000123.1	198146	199846		plus	oligopeptide ABC transporter, ATP-binding protein		0	protein-coding		ABC01545.1	566	MCAP_0163
+CP000123.1	199848	201725		plus	oligopeptide ABC transporter, ATP-binding protein		0	protein-coding		ABC01396.1	625	MCAP_0164
+CP000123.1	201742	204849		plus	oligopeptide ABC transporter, oligopeptide-binding protein, putative		0	protein-coding		ABC01259.1	1035	MCAP_0165
+CP000123.1	204948	205049		plus	truncated membrane protein		0	protein-coding		ABC01756.1	33	MCAP_0166
+CP000123.1	205361	206965		plus	hypothetical protein		0	protein-coding		ABC01851.1	534	MCAP_0167
+CP000123.1	207895	209073		plus	membrane protein, putative		0	protein-coding		ABC01710.1	392	MCAP_0168
+CP000123.1	209054	209689		plus	conserved hypothetical protein		0	protein-coding		ABC01804.1	211	MCAP_0169
+CP000123.1	209791	210543		plus	conserved hypothetical protein		0	protein-coding		ABC01500.1	250	MCAP_0170
+CP000123.1	210593	211243		plus	membrane protein, putative		0	protein-coding		ABC01665.1	216	MCAP_0171
+CP000123.1	211364	212194		plus	lipoprotein, putative		0	protein-coding		ABC01457.1	276	MCAP_0172
+CP000123.1	212404	212691		plus	hypothetical protein		0	protein-coding		ABC01462.1	95	MCAP_0173
+CP000123.1	213489	213747		minus	uncharacterized gene		0	pseudogene				MCAP_0174
+CP000123.1	213766	214179		plus	conserved hypothetical protein		0	protein-coding		ABC01227.1	137	MCAP_0175
+CP000123.1	214289	214405		minus	hypothetical protein		0	protein-coding		ABC01387.1	38	MCAP_0176
+CP000123.1	214527	214916		plus	conserved hypothetical protein		0	protein-coding		ABC01191.1	129	MCAP_0177
+CP000123.1	215059	216234		plus	membrane protein, putative		0	protein-coding		ABC01875.1	391	MCAP_0178
+CP000123.1	216319	219186		plus	membrane bound ATPase, putative		0	protein-coding		ABC01478.1	955	MCAP_0179
+CP000123.1	219507	219827		plus	conserved hypothetical protein		0	protein-coding		ABC01592.1	106	MCAP_0180
+CP000123.1	219869	220444		plus	hypothetical protein		0	protein-coding		ABC01263.1	191	MCAP_0181
+CP000123.1	220472	221119		plus	adenine-specific DNA methylase, putative		0	protein-coding		ABC01106.1	215	MCAP_0182
+CP000123.1	221144	221575		plus	conserved hypothetical protein		0	protein-coding		ABC01200.1	143	MCAP_0183
+CP000123.1	221642	222379		plus	hypothetical protein		0	protein-coding		ABC01639.1	245	MCAP_0184
+CP000123.1	222379	222585		plus	hypothetical protein		0	protein-coding		ABC01731.1	68	MCAP_0185
+CP000123.1	222935	225676		plus	membrane protein, putative		0	protein-coding		ABC01447.1	913	MCAP_0186
+CP000123.1	226062	227186		plus	transposase (IS3 family), putative		0	protein-coding		ABC01539.1	374	MCAP_0187
+CP000123.1	228765	229850		plus	multiple sugar ABC transporter, ATP-binding protein		0	protein-coding		ABC01517.1	361	MCAP_0189
+CP000123.1	229949	232246		plus	glycosyl hydrolase, family 65 (trehalase)		0	protein-coding		ABC01837.1	765	MCAP_0190
+CP000123.1	232248	233852		plus	glycosyl hydrolase, family 13		0	protein-coding		ABC01684.1	534	MCAP_0191
+CP000123.1	233874	234593		plus	transcriptional regulator, gntR family		0	protein-coding		ABC01809.1	239	MCAP_0192
+CP000123.1	234626	236419		minus	oligoendopeptidase F		0	protein-coding		ABC01673.1	597	MCAP_0193
+CP000123.1	236419	237102		minus	conserved hypothetical protein		0	protein-coding		ABC01538.1	227	MCAP_0194
+CP000123.1	237118	238473		minus	cytosol aminopeptidase	pepA2	0	protein-coding		ABC01463.1	451	MCAP_0195
+CP000123.1	238589	239884		minus	conserved hypothetical protein		0	protein-coding		ABC01355.1	431	MCAP_0196
+CP000123.1	240127	240747		plus	chromate ion transporter (CHR) family, putative		0	protein-coding		ABC01422.1	206	MCAP_0197
+CP000123.1	240747	241424		plus	chromate ion transporter (CHR) family, putative		0	protein-coding		ABC01859.1	225	MCAP_0198
+CP000123.1	242187	242651		plus	uncharacterized gene		0	pseudogene				MCAP_0199
+CP000123.1	242913	246038		minus	spermidine/putrescine ABC transporter, permease protein and spermidine/putrescine-binding protein		0	protein-coding		ABC01485.1	1041	MCAP_0200
+CP000123.1	246023	247015		minus	spermidine/putrescine ABC transporter, permease protein		0	protein-coding		ABC01781.1	330	MCAP_0201
+CP000123.1	247015	248070		minus	spermidine/putrescine ABC transporter, ATP-binding protein		0	protein-coding		ABC01657.1	351	MCAP_0202
+CP000123.1	248432	248791		minus	50S ribosomal protein L20	rplT	0	protein-coding		ABC01370.1	119	MCAP_0203
+CP000123.1	248810	249001		minus	50S ribosomal protein L35	rpmI	0	protein-coding		ABC01449.1	63	MCAP_0204
+CP000123.1	249027	249572		minus	translation initiation factor IF-3	infC	0	protein-coding		ABC01134.1	181	MCAP_0205
+CP000123.1	249761	250363		minus	polypeptide deformylase	def	0	protein-coding		ABC01689.1	200	MCAP_0206
+CP000123.1	250437	250994		plus	methyltransferase, putative		0	protein-coding		ABC01800.1	185	MCAP_0207
+CP000123.1	250997	251890		plus	guanylate kinase	gmk	0	protein-coding		ABC01818.1	297	MCAP_0208
+CP000123.1	251853	253139		plus	rRNA methyltransferase RsmB (sun protein), putative		0	protein-coding		ABC01627.1	428	MCAP_0209
+CP000123.1	253143	254972		minus	GTP-binding protein TypA/BipA	typA	0	protein-coding		ABC01613.1	609	MCAP_0210
+CP000123.1	255250	256059		plus	lipoprotein, putative		0	protein-coding		ABC01834.1	269	MCAP_0211
+CP000123.1	256070	256867		plus	lipoprotein, putative		0	protein-coding		ABC01239.1	265	MCAP_0212
+CP000123.1	256990	258345		plus	enolase	eno	0	protein-coding		ABC01346.1	451	MCAP_0213
+CP000123.1	258411	259232		plus	PAP2 superfamily domain membrane protein		0	protein-coding		ABC01393.1	273	MCAP_0214
+CP000123.1	259234	259665		plus	holliday junction resolvase, putative		0	protein-coding		ABC01537.1	143	MCAP_0215
+CP000123.1	259671	260243		plus	hypoxanthine phosphoribosyltransferase	hpt1	0	protein-coding		ABC01534.1	190	MCAP_0216
+CP000123.1	260290	261069		minus	glycerol uptake facilitator protein		0	protein-coding		ABC01336.1	259	MCAP_0217
+CP000123.1	261105	262622		minus	glycerol kinase	glpK	0	protein-coding		ABC01712.1	505	MCAP_0218
+CP000123.1	262639	263802		minus	glycerol-3-phosphate dehydrogenase, putative		0	protein-coding		ABC01157.1	387	MCAP_0219
+CP000123.1	264143	265123		plus	Phosphofructokinase	pfkA	0	protein-coding		ABC01496.1	326	MCAP_0220
+CP000123.1	265192	266628		plus	pyruvate kinase	pyk	0	protein-coding		ABC01270.1	478	MCAP_0221
+CP000123.1	266899	268818		plus	threonyl-tRNA synthetase	thrS	0	protein-coding		ABC01544.1	639	MCAP_0222
+CP000123.1	269448	270812		plus	NADH oxidase		0	protein-coding		ABC01113.1	454	MCAP_0223
+CP000123.1	270824	271828		plus	lipoate-protein ligase		0	protein-coding		ABC01213.1	334	MCAP_0224
+CP000123.1	271863	272975		plus	pyruvate dehydrogenase complex, EI component, alpha subunit	pdhA	0	protein-coding		ABC01284.1	370	MCAP_0225
+CP000123.1	272975	273964		plus	pyruvate dehydrogenase complex, E1 component, beta subunit	pdhB	0	protein-coding		ABC01723.1	329	MCAP_0226
+CP000123.1	273993	275309		plus	pyruvate dehydrogenase complex, EII component, dihydrolipoamide acetyltransferase	pdhC	0	protein-coding		ABC01559.1	438	MCAP_0227
+CP000123.1	275328	277217		plus	dihydrolipoamide dehydrogenase	pdhD	0	protein-coding		ABC01436.1	629	MCAP_0228
+CP000123.1	277239	278207		plus	phosphate acetyltransferase	pta	0	protein-coding		ABC01301.1	322	MCAP_0229
+CP000123.1	278221	279402		plus	acetate kinase	ackA	0	protein-coding		ABC01230.1	393	MCAP_0230
+CP000123.1	279470	281437		plus	lipoprotein, putative		0	protein-coding		ABC01290.1	655	MCAP_0231
+CP000123.1	281447	281869		plus	pantetheine-phosphate adenylyltransferase	coaD	0	protein-coding		ABC01753.1	140	MCAP_0232
+CP000123.1	281962	283683		plus	phosphoenolpyruvate-protein phosphotransferase	ptsI	0	protein-coding		ABC01377.1	573	MCAP_0233
+CP000123.1	283765	284229		plus	PTS system, glucose-specific IIA component	crr	0	protein-coding		ABC01309.1	154	MCAP_0234
+CP000123.1	284721	285347		plus	dihydroxyacetone kinase family protein		0	protein-coding		ABC01772.1	208	MCAP_0235
+CP000123.1	285355	285744		plus	conserved hypothetical protein		0	protein-coding		ABC01788.1	129	MCAP_0236
+CP000123.1	285801	286427		minus	30S ribosomal protein S4	rpsD	0	protein-coding		ABC01806.1	208	MCAP_0237
+CP000123.1	286682	288469		plus	membrane protein, putative		0	protein-coding		ABC01750.1	595	MCAP_0238
+CP000123.1	288478	289665		plus	thiamine biosynthesis protein ThiI	thiI	0	protein-coding		ABC01610.1	395	MCAP_0239
+CP000123.1	289797	291767		plus	membrane protein, putative		0	protein-coding		ABC01466.1	656	MCAP_0240
+CP000123.1	291884	293554		plus	membrane protein, putative		0	protein-coding		ABC01386.1	556	MCAP_0241
+CP000123.1	293564	295852		plus	lipoprotein, putative		0	protein-coding		ABC01218.1	762	MCAP_0242
+CP000123.1	296087	298150		plus	regulatory protein PfoR		0	protein-coding		ABC01171.1	687	MCAP_0243
+CP000123.1	298176	301091		minus	cation-transporting ATPase, E1-E2 family		0	protein-coding		ABC01277.1	971	MCAP_0244
+CP000123.1	301100	301690		minus	GTP-binding conserved hypothetical protein		0	protein-coding		ABC01543.1	196	MCAP_0245
+CP000123.1	301684	302244		minus	membrane protein, putative		0	protein-coding		ABC01651.1	186	MCAP_0246
+CP000123.1	302246	302824		minus	membrane protein, putative		0	protein-coding		ABC01607.1	192	MCAP_0247
+CP000123.1	302827	303516		minus	conserved hypothetical protein		0	protein-coding		ABC01682.1	229	MCAP_0248
+CP000123.1	303598	304293		plus	hypothetical protein		0	protein-coding		ABC01123.1	231	MCAP_0249
+CP000123.1	304294	305016		minus	Oxidoreductase, short chain dehydrogenase/reductase family		0	protein-coding		ABC01384.1	240	MCAP_0250
+CP000123.1	305075	305548		minus	transcription elongation factor GreA	greA	0	protein-coding		ABC01743.1	157	MCAP_0251
+CP000123.1	305640	307394		minus	excinuclease ABC, C subunit	uvrC	0	protein-coding		ABC01582.1	584	MCAP_0252
+CP000123.1	307403	308479		minus	membrane protein, putative		0	protein-coding		ABC01522.1	358	MCAP_0253
+CP000123.1	308544	310161		minus	uncharacterized gene		0	pseudogene				MCAP_0254
+CP000123.1	310275	312026		minus	conserved hypothetical protein		0	protein-coding		ABC01088.1	583	MCAP_0255
+CP000123.1	312145	312864		minus	Oxidoreductase, short chain dehydrogenase/reductase family		0	protein-coding		ABC01195.1	239	MCAP_0256
+CP000123.1	312876	313673		minus	inorganic polyphosphate/ATP-NAD kinase, putative		0	protein-coding		ABC01811.1	265	MCAP_0257
+CP000123.1	313797	316415		minus	valyl-tRNA synthetase	valS	0	protein-coding		ABC01303.1	872	MCAP_0258
+CP000123.1	316500	317126		minus	conserved hypothetical protein		0	protein-coding		ABC01623.1	208	MCAP_0259
+CP000123.1	317116	317793		minus	ribulose-phosphate 3-epimerase	rpe	0	protein-coding		ABC01398.1	225	MCAP_0260
+CP000123.1	317795	318697		minus	ribosome small subunit-dependent GTPase A	rsgA	0	protein-coding		ABC01369.1	300	MCAP_0261
+CP000123.1	318707	319822		minus	serine/threonine protein kinase, putative		0	protein-coding		ABC01254.1	371	MCAP_0262
+CP000123.1	319822	320085		minus	conserved hypothetical protein		0	protein-coding		ABC01486.1	87	MCAP_0263
+CP000123.1	320054	320581		minus	conserved hypothetical protein		0	protein-coding		ABC01823.1	175	MCAP_0264
+CP000123.1	320611	322023		minus	membrane protein, putative		0	protein-coding		ABC01569.1	470	MCAP_0265
+CP000123.1	322126	322542		plus	conserved hypothetical protein TIGR00150		0	protein-coding		ABC01868.1	138	MCAP_0266
+CP000123.1	322544	323107		plus	metalloendopeptidase, putative		0	protein-coding		ABC01572.1	187	MCAP_0267
+CP000123.1	323167	324522		minus	lipoprotein, putative		0	protein-coding		ABC01634.1	451	MCAP_0268
+CP000123.1	324791	326143		minus	lipoprotein, putative		0	protein-coding		ABC01288.1	450	MCAP_0269
+CP000123.1	326350	331656		minus	ABC transporter, permease protein, putative		0	protein-coding		ABC01424.1	1768	MCAP_0270
+CP000123.1	331924	335061		plus	membrane protein, putative		0	protein-coding		ABC01420.1	1045	MCAP_0271
+CP000123.1	335085	335603		plus	lipoprotein, putative		0	protein-coding		ABC01866.1	172	MCAP_0272
+CP000123.1	335689	336228		plus	lipoprotein, putative		0	protein-coding		ABC01841.1	179	MCAP_0273
+CP000123.1	336621	337358		plus	hypothetical protein		0	protein-coding		ABC01763.1	245	MCAP_0274
+CP000123.1	338352	338984		plus	conserved hypothetical protein		0	protein-coding		ABC01663.1	210	MCAP_0275
+CP000123.1	339294	339815		plus	conserved hypothetical protein		0	protein-coding		ABC01491.1	173	MCAP_0276
+CP000123.1	339845	340249		plus	plasmid replication-initiation protein homolog		0	protein-coding		ABC01519.1	134	MCAP_0277
+CP000123.1	340321	340929		plus	conserved hypothetical protein		0	protein-coding		ABC01448.1	202	MCAP_0278
+CP000123.1	340973	341833		plus	hypothetical protein		0	protein-coding		ABC01334.1	286	MCAP_0279
+CP000123.1	342147	342296		plus	hypothetical protein		0	protein-coding		ABC01246.1	49	MCAP_0280
+CP000123.1	342461	342769		plus	Single-strand binding protein family		0	protein-coding		ABC01251.1	102	MCAP_0281
+CP000123.1	342820	343560		plus	hypothetical protein		0	protein-coding		ABC01293.1	246	MCAP_0282
+CP000123.1	343562	343777		plus	hypothetical protein		0	protein-coding		ABC01380.1	71	MCAP_0283
+CP000123.1	343855	344736		plus	membrane protein, putative		0	protein-coding		ABC01189.1	293	MCAP_0284
+CP000123.1	344834	345322		plus	hypothetical protein		0	protein-coding		ABC01075.1	162	MCAP_0285
+CP000123.1	345374	345943		plus	hypothetical protein		0	protein-coding		ABC01185.1	189	MCAP_0286
+CP000123.1	346021	346839		plus	lipoprotein, putative		0	protein-coding		ABC01679.1	272	MCAP_0287
+CP000123.1	346886	347458		plus	conserved hypothetical protein		0	protein-coding		ABC01784.1	190	MCAP_0288
+CP000123.1	347716	348396		plus	conserved hypothetical protein		0	protein-coding		ABC01558.1	226	MCAP_0289
+CP000123.1	348460	348876		plus	hypothetical protein		0	protein-coding		ABC01609.1	138	MCAP_0290
+CP000123.1	348951	349499		plus	conserved hypothetical protein		0	protein-coding		ABC01139.1	182	MCAP_0291
+CP000123.1	349555	350307		plus	conserved hypothetical protein		0	protein-coding		ABC01454.1	250	MCAP_0292
+CP000123.1	350364	351119		plus	conserved hypothetical protein		0	protein-coding		ABC01226.1	251	MCAP_0293
+CP000123.1	351168	351779		plus	hypothetical protein		0	protein-coding		ABC01551.1	203	MCAP_0294
+CP000123.1	351830	352243		plus	conserved hypothetical protein		0	protein-coding		ABC01638.1	137	MCAP_0295
+CP000123.1	352322	353125		plus	conserved hypothetical protein		0	protein-coding		ABC01403.1	267	MCAP_0296
+CP000123.1	353126	353794		plus	adenine-specific DNA methylase, putative		0	protein-coding		ABC01091.1	222	MCAP_0297
+CP000123.1	353798	354178		plus	conserved hypothetical protein		0	protein-coding		ABC01181.1	126	MCAP_0298
+CP000123.1	354758	359698		plus	membrane protein, putative		0	protein-coding		ABC01683.1	1646	MCAP_0299
+CP000123.1	360401	361894		minus	conserved hypothetical protein		0	protein-coding		ABC01700.1	497	MCAP_0300
+CP000123.1	362143	364599		minus	conserved hypothetical protein		0	protein-coding		ABC01530.1	818	MCAP_0301
+CP000123.1	364659	365339		minus	conserved hypothetical protein		0	protein-coding		ABC01636.1	226	MCAP_0302
+CP000123.1	366143	366730		minus	membrane protein, putative		0	protein-coding		ABC01333.1	195	MCAP_0303
+CP000123.1	366730	368646		minus	e3 binding domain protein		0	protein-coding		ABC01155.1	638	MCAP_0304
+CP000123.1	368903	370393		minus	membrane protein, putative		0	protein-coding		ABC01854.1	496	MCAP_0305
+CP000123.1	370524	370844		minus	membrane protein, putative		0	protein-coding		ABC01737.1	106	MCAP_0306
+CP000123.1	371320	372405		minus	membrane protein, putative		0	protein-coding		ABC01344.1	361	MCAP_0307
+CP000123.1	372470	373015		minus	conserved hypothetical protein		0	protein-coding		ABC01502.1	181	MCAP_0308
+CP000123.1	373077	374006		minus	conserved hypothetical protein		0	protein-coding		ABC01124.1	309	MCAP_0309
+CP000123.1	374061	374963		minus	conserved hypothetical protein		0	protein-coding		ABC01446.1	300	MCAP_0310
+CP000123.1	375026	375997		minus	conserved hypothetical protein		0	protein-coding		ABC01391.1	323	MCAP_0311
+CP000123.1	376060	377175		minus	lipoprotein, putative		0	protein-coding		ABC01671.1	371	MCAP_0312
+CP000123.1	377232	377510		minus	DNA-binding protein, HU	hupB	0	protein-coding		ABC01205.1	92	MCAP_0313
+CP000123.1	377579	378211		minus	conserved hypothetical protein		0	protein-coding		ABC01883.1	210	MCAP_0314
+CP000123.1	378592	379707		plus	transposase (IS3 family), putative		0	protein-coding		ABC01531.1	371	MCAP_0315
+CP000123.1	380276	380365		plus	uncharacterized gene		0	tRNA				MCAP_0316
+CP000123.1	380276	380365		plus	tRNA-Ser		0	other				MCAP_0316
+CP000123.1	380492	381184		plus	hypothetical protein		0	protein-coding		ABC01581.1	230	MCAP_0317
+CP000123.1	381276	382589		plus	prolyl-tRNA synthetase	proS	0	protein-coding		ABC01299.1	437	MCAP_0318
+CP000123.1	382602	383222		plus	ribonuclease H1, putative		0	protein-coding		ABC01405.1	206	MCAP_0319
+CP000123.1	383224	384123		plus	conserved hypothetical protein		0	protein-coding		ABC01242.1	299	MCAP_0320
+CP000123.1	384137	385939		plus	GTP-binding protein LepA	lepA	0	protein-coding		ABC01252.1	600	MCAP_0321
+CP000123.1	385973	386776		plus	hypothetical protein		0	protein-coding		ABC01407.1	267	MCAP_0322
+CP000123.1	386797	388524		minus	aspartyl-tRNA synthetase	aspS	0	protein-coding		ABC01492.1	575	MCAP_0323
+CP000123.1	388533	389777		minus	His-tRNA synthetase	hisS	0	protein-coding		ABC01130.1	414	MCAP_0324
+CP000123.1	389949	390302		plus	ribosome-binding factor A	rbfA	0	protein-coding		ABC01156.1	117	MCAP_0325
+CP000123.1	390352	391230		plus	tRNA pseudouridine synthase B, putative		0	protein-coding		ABC01192.1	292	MCAP_0326
+CP000123.1	391217	391771		plus	riboflavin kinase (flavokinase) domain protein		0	protein-coding		ABC01759.1	184	MCAP_0327
+CP000123.1	391784	393832		minus	membrane protein, putative		0	protein-coding		ABC01790.1	682	MCAP_0328
+CP000123.1	393844	395682		minus	lipoprotein, putative		0	protein-coding		ABC01488.1	612	MCAP_0329
+CP000123.1	395895	396161		plus	30S ribosomal protein S15	rpsO	0	protein-coding		ABC01616.1	88	MCAP_0330
+CP000123.1	396221	396294		plus	uncharacterized gene		0	tRNA				MCAP_0331
+CP000123.1	396221	396294		plus	tRNA-Gly		0	other				MCAP_0331
+CP000123.1	396385	397035		plus	membrane protein, putative		0	protein-coding		ABC01274.1	216	MCAP_0332
+CP000123.1	397049	398911		minus	translation initiation factor IF-2	infB	0	protein-coding		ABC01401.1	620	MCAP_0333
+CP000123.1	398931	399230		minus	ribosomal protein L7A family		0	protein-coding		ABC01233.1	99	MCAP_0334
+CP000123.1	399217	399504		minus	conserved hypothetical cytosolic protein		0	protein-coding		ABC01216.1	95	MCAP_0335
+CP000123.1	399479	401155		minus	transcription elongation protein nusA, putative		0	protein-coding		ABC01459.1	558	MCAP_0336
+CP000123.1	401164	401658		minus	conserved hypothetical protein		0	protein-coding		ABC01507.1	164	MCAP_0337
+CP000123.1	401771	402394		minus	nitroreductase family protein		0	protein-coding		ABC01728.1	207	MCAP_0338
+CP000123.1	402434	406873		minus	DNA polymerase III, alpha subunit, Gram-positive type	polC	0	protein-coding		ABC01802.1	1479	MCAP_0339
+CP000123.1	406882	407910		minus	phosphatidate cytidylyltransferase	cdsA	0	protein-coding		ABC01165.1	342	MCAP_0340
+CP000123.1	408108	409184		minus	Xaa-Pro peptidase		0	protein-coding		ABC01430.1	358	MCAP_0341
+CP000123.1	409342	410352		plus	tryptophanyl-tRNA synthetase	trpS	0	protein-coding		ABC01542.1	336	MCAP_0342
+CP000123.1	410382	411272		minus	membrane protein, putative		0	protein-coding		ABC01584.1	296	MCAP_0343
+CP000123.1	411606	412175		plus	Fic protein family		0	protein-coding		ABC01704.1	189	MCAP_0344
+CP000123.1	412795	415050		plus	membrane protein, putative		0	protein-coding		ABC01864.1	751	MCAP_0345
+CP000123.1	415071	417659		plus	lipoprotein, putative		0	protein-coding		ABC01081.1	862	MCAP_0346
+CP000123.1	417869	420121		plus	membrane protein, putative		0	protein-coding		ABC01364.1	750	MCAP_0347
+CP000123.1	420139	422718		plus	lipoprotein, putative		0	protein-coding		ABC01444.1	859	MCAP_0348
+CP000123.1	422903	425152		plus	membrane protein, putative		0	protein-coding		ABC01774.1	749	MCAP_0349
+CP000123.1	425172	427751		plus	lipoprotein, putative		0	protein-coding		ABC01499.1	859	MCAP_0350
+CP000123.1	428011	430263		plus	membrane protein, putative		0	protein-coding		ABC01143.1	750	MCAP_0351
+CP000123.1	430287	432854		plus	lipoprotein, putative		0	protein-coding		ABC01767.1	855	MCAP_0352
+CP000123.1	432889	434352		plus	membrane protein, putative		0	protein-coding		ABC01317.1	487	MCAP_0353
+CP000123.1	434327	434821		plus	conserved hypothetical protein		0	protein-coding		ABC01736.1	164	MCAP_0354
+CP000123.1	434823	435734		plus	conserved hypothetical protein		0	protein-coding		ABC01498.1	303	MCAP_0355
+CP000123.1	435734	436177		plus	conserved hypothetical protein		0	protein-coding		ABC01126.1	147	MCAP_0356
+CP000123.1	436179	438446		plus	membrane protein, putative		0	protein-coding		ABC01713.1	755	MCAP_0357
+CP000123.1	438451	439998		plus	ATP synthase F1, alpha subunit	atpA2	0	protein-coding		ABC01104.1	515	MCAP_0358
+CP000123.1	439998	441377		plus	ATP synthase F1, beta subunit	atpD2	0	protein-coding		ABC01234.1	459	MCAP_0359
+CP000123.1	441432	443936		minus	hypothetical protein		0	protein-coding		ABC01168.1	834	MCAP_0360
+CP000123.1	444199	446745		minus	hypothetical protein		0	protein-coding		ABC01425.1	848	MCAP_0361
+CP000123.1	446899	449406		minus	hypothetical protein		0	protein-coding		ABC01598.1	835	MCAP_0362
+CP000123.1	449586	450185		plus	non-canonical purine NTP pyrophosphatase, rdgB/HAM1 family		0	protein-coding		ABC01103.1	199	MCAP_0363
+CP000123.1	450199	450744		plus	RNA methyltransferase, TrmH family		0	protein-coding		ABC01196.1	181	MCAP_0364
+CP000123.1	450744	451610		plus	hydrolase of the HAD superfamily, putative		0	protein-coding		ABC01256.1	288	MCAP_0365
+CP000123.1	451775	453916		plus	ATP-dependent Clp protease, ATP-binding subunit ClpB, putative		0	protein-coding		ABC01738.1	713	MCAP_0366
+CP000123.1	453921	454943		plus	heat-inducible transcription repressor HrcA	hrcA	0	protein-coding		ABC01793.1	340	MCAP_0367
+CP000123.1	454927	455547		plus	co-chaperone GrpE	grpE	0	protein-coding		ABC01487.1	206	MCAP_0368
+CP000123.1	455607	457382		plus	chaperone protein dnaK	dnaK	0	protein-coding		ABC01504.1	591	MCAP_0369
+CP000123.1	457447	458565		plus	chaperone protein dnaJ	dnaJ	0	protein-coding		ABC01340.1	372	MCAP_0370
+CP000123.1	458769	459644		plus	30S ribosomal protein S2	rpsB	0	protein-coding		ABC01283.1	291	MCAP_0371
+CP000123.1	459656	460543		plus	translation elongation factor Ts	tsf	0	protein-coding		ABC01780.1	295	MCAP_0372
+CP000123.1	460546	461151		plus	membrane protein, putative		0	protein-coding		ABC01074.1	201	MCAP_0373
+CP000123.1	461283	461996		plus	uridylate kinase	pyrH	0	protein-coding		ABC01206.1	237	MCAP_0374
+CP000123.1	462007	462555		plus	ribosome recycling factor	frr	0	protein-coding		ABC01476.1	182	MCAP_0375
+CP000123.1	462557	464221		plus	arginyl-tRNA synthetase	argS	0	protein-coding		ABC01557.1	554	MCAP_0376
+CP000123.1	464431	465954		plus	uncharacterized gene	rrs-1	0	rRNA				MCAP_0378
+CP000123.1	464431	465954		plus	16S ribosomal RNA	rrs-1	0	other				MCAP_0378
+CP000123.1	466184	469077		plus	uncharacterized gene	rrl-1	0	rRNA				MCAP_0379
+CP000123.1	466184	469077		plus	23S ribosomal RNA	rrl-1	0	other				MCAP_0379
+CP000123.1	469153	469261		plus	uncharacterized gene	rrf-1	0	rRNA				MCAP_0380
+CP000123.1	469153	469261		plus	5S ribosomal RNA	rrf-1	0	other				MCAP_0380
+CP000123.1	469387	473832		plus	membrane protein, putative		0	protein-coding		ABC01782.1	1481	MCAP_0381
+CP000123.1	473844	474452		plus	hypothetical protein		0	protein-coding		ABC01787.1	202	MCAP_0382
+CP000123.1	474483	475535		plus	phenylalanyl-tRNA synthetase, alpha subunit	pheS	0	protein-coding		ABC01188.1	350	MCAP_0383
+CP000123.1	475544	477928		plus	phenylalanyl-tRNA synthetase, beta subunit	pheT	0	protein-coding		ABC01306.1	794	MCAP_0384
+CP000123.1	477928	478443		plus	hypothetical protein		0	protein-coding		ABC01576.1	171	MCAP_0385
+CP000123.1	478458	478637		plus	50S ribosomal protein L32	rpmF	0	protein-coding		ABC01215.1	59	MCAP_0386
+CP000123.1	478742	479140		plus	conserved hypothetical protein		0	protein-coding		ABC01721.1	132	MCAP_0387
+CP000123.1	479149	480078		plus	S-adenosyl-methyltransferase MraW	mraW	0	protein-coding		ABC01421.1	309	MCAP_0388
+CP000123.1	480087	481244		plus	conserved hypothetical protein		0	protein-coding		ABC01098.1	385	MCAP_0389
+CP000123.1	481359	482498		plus	cell division protein FtsZ	ftsZ	0	protein-coding		ABC01568.1	379	MCAP_0390
+CP000123.1	482511	482954		plus	conserved hypothetical protein		0	protein-coding		ABC01279.1	147	MCAP_0391
+CP000123.1	482987	483976		plus	conserved hypothetical protein		0	protein-coding		ABC01110.1	329	MCAP_0392
+CP000123.1	484559	487285		plus	isoleucyl-tRNA synthetase	ileS	0	protein-coding		ABC01214.1	908	MCAP_0393
+CP000123.1	487294	487902		plus	signal peptidase (SPase) II	lspA	0	protein-coding		ABC01667.1	202	MCAP_0394
+CP000123.1	487883	488851		plus	ribosomal large subunit pseudouridine synthase, RluA family		0	protein-coding		ABC01078.1	322	MCAP_0395
+CP000123.1	488835	490145		plus	membrane protein, putative		0	protein-coding		ABC01645.1	436	MCAP_0396
+CP000123.1	490172	490633		plus	probable deoxycytidylate deaminase		0	protein-coding		ABC01367.1	153	MCAP_0397
+CP000123.1	490673	491827		plus	membrane protein, putative		0	protein-coding		ABC01794.1	384	MCAP_0398
+CP000123.1	491908	493293		plus	membrane protein, putative		0	protein-coding		ABC01669.1	461	MCAP_0399
+CP000123.1	493313	493645		plus	holo-(acyl-carrier-protein) synthase, putative		0	protein-coding		ABC01142.1	110	MCAP_0400
+CP000123.1	493687	494838		plus	membrane protein, putative		0	protein-coding		ABC01832.1	383	MCAP_0401
+CP000123.1	494973	495926		plus	1-acyl-sn-glycerol-3-phosphate acyltransferase, putative		0	protein-coding		ABC01525.1	317	MCAP_0402
+CP000123.1	495977	496594		plus	conserved hypothetical protein		0	protein-coding		ABC01451.1	205	MCAP_0403
+CP000123.1	496721	496796		plus	uncharacterized gene		0	tRNA				MCAP_0404
+CP000123.1	496721	496796		plus	tRNA-Thr		0	other				MCAP_0404
+CP000123.1	496803	496886		plus	uncharacterized gene		0	tRNA				MCAP_0405
+CP000123.1	496803	496886		plus	tRNA-Tyr		0	other				MCAP_0405
+CP000123.1	496894	496968		plus	uncharacterized gene		0	tRNA				MCAP_0406
+CP000123.1	496894	496968		plus	tRNA-Gln		0	other				MCAP_0406
+CP000123.1	496973	497048		plus	uncharacterized gene		0	tRNA				MCAP_0407
+CP000123.1	496973	497048		plus	tRNA-Lys		0	other				MCAP_0407
+CP000123.1	497057	497145		plus	uncharacterized gene		0	tRNA				MCAP_0408
+CP000123.1	497057	497145		plus	tRNA-Leu		0	other				MCAP_0408
+CP000123.1	497250	498314		minus	lipoprotein, putative		0	protein-coding		ABC01754.1	354	MCAP_0409
+CP000123.1	498691	499581		plus	conserved hypothetical protein, TIGR00096		0	protein-coding		ABC01287.1	296	MCAP_0410
+CP000123.1	499603	500004		plus	hypothetical protein		0	protein-coding		ABC01475.1	133	MCAP_0411
+CP000123.1	500149	500451		plus	50 ribosomal protein L21	rplU	0	protein-coding		ABC01792.1	100	MCAP_0412
+CP000123.1	500454	500768		plus	conserved hypothetical protein		0	protein-coding		ABC01856.1	104	MCAP_0413
+CP000123.1	500770	501051		plus	50S ribosomal protein L27	rpmA	0	protein-coding		ABC01412.1	93	MCAP_0414
+CP000123.1	501245	502132		plus	N-acetylneuraminate lyase	nanA	0	protein-coding		ABC01272.1	295	MCAP_0415
+CP000123.1	502136	503848		plus	sodium:solute symporter (SSS) family		0	protein-coding		ABC01426.1	570	MCAP_0416
+CP000123.1	503857	504306		plus	conserved hypothetical cytosolic protein		0	protein-coding		ABC01131.1	149	MCAP_0417
+CP000123.1	504299	505174		plus	ROK family protein		0	protein-coding		ABC01282.1	291	MCAP_0418
+CP000123.1	505254	505934		plus	N-acetylmannosamine-6-phosphate epimerase, putative		0	protein-coding		ABC01577.1	226	MCAP_0419
+CP000123.1	506088	507437		plus	dipeptidase, putative		0	protein-coding		ABC01761.1	449	MCAP_0420
+CP000123.1	507518	507952		plus	membrane protein, putative		0	protein-coding		ABC01798.1	144	MCAP_0421
+CP000123.1	507977	508600		plus	uridine kinase	udk	0	protein-coding		ABC01621.1	207	MCAP_0422
+CP000123.1	508728	509954		plus	ImpB/MucB/SamB family protein		0	protein-coding		ABC01464.1	408	MCAP_0423
+CP000123.1	509967	511070		minus	GTP-binding conserved hypothetical protein		0	protein-coding		ABC01167.1	367	MCAP_0424
+CP000123.1	511079	511999		minus	conserved hypothetical protein		0	protein-coding		ABC01228.1	306	MCAP_0425
+CP000123.1	512075	512890		plus	hypothetical protein		0	protein-coding		ABC01245.1	271	MCAP_0426
+CP000123.1	512935	514296		minus	pyridine nucleotide-disulphide oxidoreductase		0	protein-coding		ABC01132.1	453	MCAP_0427
+CP000123.1	514403	515325		minus	uncharacterized gene	ruvB	0	pseudogene				MCAP_0428
+CP000123.1	515351	515911		minus	Holliday junction DNA helicase ruvA, putative	ruvA	0	protein-coding		ABC01169.1	186	MCAP_0429
+CP000123.1	516022	516204		minus	30S Ribosomal protein S21	rpsU	0	protein-coding		ABC01441.1	60	MCAP_0430
+CP000123.1	516454	517083		plus	lipoprotein, putative		0	protein-coding		ABC01182.1	209	MCAP_0431
+CP000123.1	517320	518039		plus	lipoprotein, putative		0	protein-coding		ABC01808.1	239	MCAP_0432
+CP000123.1	518278	518916		plus	lipoprotein, putative		0	protein-coding		ABC01523.1	212	MCAP_0433
+CP000123.1	518964	520697		minus	conserved hypothetical protein		0	protein-coding		ABC01508.1	577	MCAP_0434
+CP000123.1	520850	522502		plus	membrane protein, putative		0	protein-coding		ABC01858.1	550	MCAP_0435
+CP000123.1	522507	523106		plus	membrane protein, putative		0	protein-coding		ABC01312.1	199	MCAP_0436
+CP000123.1	523118	523927		minus	membrane protein, putative		0	protein-coding		ABC01594.1	269	MCAP_0437
+CP000123.1	524021	525178		plus	N-acetylglucosamine-6-phosphate deacetylase	nagA	0	protein-coding		ABC01505.1	385	MCAP_0438
+CP000123.1	525231	526184		plus	L-lactate/malate dehydrogenase	ldh	0	protein-coding		ABC01779.1	317	MCAP_0439
+CP000123.1	526250	526912		minus	membrane protein, putative		0	protein-coding		ABC01827.1	220	MCAP_0440
+CP000123.1	527269	527469		minus	hypothetical protein		0	protein-coding		ABC01166.1	66	MCAP_0441
+CP000123.1	527481	528965		minus	lipoprotein, putative		0	protein-coding		ABC01090.1	494	MCAP_0442
+CP000123.1	529220	529492		plus	hypothetical protein		0	protein-coding		ABC01315.1	90	MCAP_0443
+CP000123.1	529607	530716		plus	membrane protein, putative		0	protein-coding		ABC01771.1	369	MCAP_0444
+CP000123.1	530742	531539		minus	triacylglycerol lipase		0	protein-coding		ABC01873.1	265	MCAP_0445
+CP000123.1	531553	532341		minus	triacylglycerol lipase, putative		0	protein-coding		ABC01615.1	262	MCAP_0446
+CP000123.1	532528	532872		plus	glycine cleavage system H protein, putative		0	protein-coding		ABC01719.1	114	MCAP_0447
+CP000123.1	532879	533730		plus	conserved hypothetical protein		0	protein-coding		ABC01361.1	283	MCAP_0448
+CP000123.1	533708	534745		plus	lipoate-protein ligase		0	protein-coding		ABC01644.1	345	MCAP_0449
+CP000123.1	534745	535923		plus	NADH:flavin oxidoreductase / NADH oxidase family		0	protein-coding		ABC01162.1	392	MCAP_0450
+CP000123.1	536187	538070		minus	lipoprotein, putative (LppB)		0	protein-coding		ABC01797.1	627	MCAP_0451
+CP000123.1	538184	538987		minus	glycerol ABC transporter, permease	gtsC	0	protein-coding		ABC01692.1	267	MCAP_0452
+CP000123.1	538965	539969		minus	glycerol ABC transporter, permease	gtsB	0	protein-coding		ABC01585.1	334	MCAP_0453
+CP000123.1	539962	541173		minus	glycerol ABC transporter, ATP-binding protein	gtsA	0	protein-coding		ABC01481.1	403	MCAP_0454
+CP000123.1	541179	543374		minus	helicase, RecD/TraA family, putative		0	protein-coding		ABC01432.1	731	MCAP_0455
+CP000123.1	543485	546184		minus	DNA topoisomerase IV, A subunit	parC	0	protein-coding		ABC01608.1	899	MCAP_0456
+CP000123.1	546186	548117		minus	DNA topoisomerase IV, B subunit	parE	0	protein-coding		ABC01260.1	643	MCAP_0457
+CP000123.1	548347	549924		plus	PTS system, mannitol-specific IIBC component		0	protein-coding		ABC01805.1	525	MCAP_0458
+CP000123.1	549927	550367		plus	PTS system, mannitol-specific IIA component		0	protein-coding		ABC01397.1	146	MCAP_0459
+CP000123.1	550367	551266		plus	6-phosphogluconate dehydrogenase family protein		0	protein-coding		ABC01264.1	299	MCAP_0460
+CP000123.1	551321	552736		minus	aldehyde dehydrogenase (NAD) family protein		0	protein-coding		ABC01597.1	471	MCAP_0461
+CP000123.1	552903	553670		minus	RNA methyltransferase, TrmH family		0	protein-coding		ABC01271.1	255	MCAP_0462
+CP000123.1	553687	554190		minus	conserved hypothetical cytosolic protein		0	protein-coding		ABC01482.1	167	MCAP_0463
+CP000123.1	554231	554677		minus	membrane protein, putative		0	protein-coding		ABC01591.1	148	MCAP_0464
+CP000123.1	554703	555986		minus	glucose-6-phosphate isomerase	pgi	0	protein-coding		ABC01694.1	427	MCAP_0465
+CP000123.1	556207	558102		minus	endopeptidase O	pepO	0	protein-coding		ABC01314.1	631	MCAP_0466
+CP000123.1	558116	558685		minus	5-formyltetrahydrofolate cyclo-ligase subfamily		0	protein-coding		ABC01586.1	189	MCAP_0467
+CP000123.1	558678	559115		minus	conserved hypothetical protein		0	protein-coding		ABC01849.1	145	MCAP_0468
+CP000123.1	559119	560357		minus	aminotransferase, class V		0	protein-coding		ABC01762.1	412	MCAP_0469
+CP000123.1	560551	563544		plus	lipoprotein, putative		0	protein-coding		ABC01249.1	997	MCAP_0470
+CP000123.1	563566	565737		plus	lipoprotein, putative		0	protein-coding		ABC01079.1	723	MCAP_0471
+CP000123.1	565740	566135		plus	HIT family protein		0	protein-coding		ABC01388.1	131	MCAP_0472
+CP000123.1	566171	567151		minus	conserved hypothetical protein		0	protein-coding		ABC01677.1	326	MCAP_0473
+CP000123.1	567220	567876		minus	uracil-DNA glycosylase	ung	0	protein-coding		ABC01803.1	218	MCAP_0474
+CP000123.1	567869	568798		minus	phosphomannose isomerase type I	pmi	0	protein-coding		ABC01521.1	309	MCAP_0475
+CP000123.1	568919	570235		minus	glucose inhibited division protein	gid	0	protein-coding		ABC01640.1	438	MCAP_0476
+CP000123.1	570228	570911		minus	copper homeostasis protein CutC, putative		0	protein-coding		ABC01351.1	227	MCAP_0477
+CP000123.1	570902	572065		minus	S-adenosylmethionine synthetase	metK	0	protein-coding		ABC01473.1	387	MCAP_0478
+CP000123.1	572276	573049		minus	conserved hypothetical protein TIGR00282		0	protein-coding		ABC01076.1	257	MCAP_0479
+CP000123.1	573037	573378		minus	UPF0122 protein, putative	p13	0	protein-coding		ABC01202.1	113	MCAP_0480
+CP000123.1	573362	574636		minus	signal recognition particle-docking protein FtsY	ftsY	0	protein-coding		ABC01566.1	424	MCAP_0481
+CP000123.1	574705	575376		minus	phosphate transport system regulatory protein PhoU, putative		0	protein-coding		ABC01604.1	223	MCAP_0482
+CP000123.1	575385	576194		minus	phosphate ABC transporter, ATP-binding protein	pstB	0	protein-coding		ABC01360.1	269	MCAP_0483
+CP000123.1	576187	578277		minus	phosphate ABC transporter, permease, putative		0	protein-coding		ABC01458.1	696	MCAP_0484
+CP000123.1	578281	579492		minus	phosphate ABC transporter, phosphate-binding protein, putative		0	protein-coding		ABC01511.1	403	MCAP_0485
+CP000123.1	579583	580017		minus	conserved hypothetical protein		0	protein-coding		ABC01201.1	144	MCAP_0486
+CP000123.1	580100	580184		minus	uncharacterized gene		0	tRNA				MCAP_0487
+CP000123.1	580100	580184		minus	tRNA-Leu		0	other				MCAP_0487
+CP000123.1	580246	580443		minus	50S ribosomal protein L28	rpmB	0	protein-coding		ABC01751.1	65	MCAP_0488
+CP000123.1	580603	580932		plus	conserved hypothetical protein		0	protein-coding		ABC01373.1	109	MCAP_0489
+CP000123.1	580962	582605		plus	dihydroxyacetone kinase 2 domain protein		0	protein-coding		ABC01100.1	547	MCAP_0490
+CP000123.1	582637	583641		plus	fatty acid/phospholipid synthesis protein PlsX	plsX	0	protein-coding		ABC01297.1	334	MCAP_0491
+CP000123.1	583631	584329		plus	ribonuclease III		0	protein-coding		ABC01406.1	232	MCAP_0492
+CP000123.1	584513	584908		plus	hypothetical protein		0	protein-coding		ABC01497.1	131	MCAP_0493
+CP000123.1	584911	585297		plus	hypothetical protein		0	protein-coding		ABC01618.1	128	MCAP_0494
+CP000123.1	585624	588590		plus	structural maintenance of chromosomes (SMC) superfamily protein		0	protein-coding		ABC01547.1	988	MCAP_0495
+CP000123.1	588629	590893		minus	RelA/SpoT family protein		0	protein-coding		ABC01633.1	754	MCAP_0496
+CP000123.1	590953	591465		minus	adenine phosphoribosyltransferase	apt	0	protein-coding		ABC01255.1	170	MCAP_0497
+CP000123.1	591477	595691		minus	membrane protein, putative		0	protein-coding		ABC01773.1	1404	MCAP_0498
+CP000123.1	595793	597304		minus	membrane protein, putative		0	protein-coding		ABC01428.1	503	MCAP_0499
+CP000123.1	597343	598704		minus	ATP-dependent RNA helicase, DEAD-DEAH box family		0	protein-coding		ABC01111.1	453	MCAP_0500
+CP000123.1	598713	599489		minus	conserved hypothetical protein		0	protein-coding		ABC01527.1	258	MCAP_0501
+CP000123.1	599476	600153		minus	conserved hypothetical protein		0	protein-coding		ABC01635.1	225	MCAP_0502
+CP000123.1	600156	601673		minus	RNA polymerase sigma factor RpoD	rpoD	0	protein-coding		ABC01686.1	505	MCAP_0503
+CP000123.1	601676	603490		minus	DNA primase	dnaG	0	protein-coding		ABC01764.1	604	MCAP_0504
+CP000123.1	603527	604897		minus	glycyl-tRNA synthetase	glyS	0	protein-coding		ABC01680.1	456	MCAP_0505
+CP000123.1	604961	605710		minus	DNA repair protein RecO		0	protein-coding		ABC01144.1	249	MCAP_0506
+CP000123.1	605710	606615		minus	GTP-binding protein Era	era	0	protein-coding		ABC01223.1	301	MCAP_0507
+CP000123.1	606618	607112		minus	conserved hypothetical protein, TIGR00043		0	protein-coding		ABC01813.1	164	MCAP_0508
+CP000123.1	607118	609007		minus	Peptidase C39 family protein		0	protein-coding		ABC01696.1	629	MCAP_0509
+CP000123.1	609000	609548		minus	DJ-1 family protein		0	protein-coding		ABC01186.1	182	MCAP_0510
+CP000123.1	609596	614857		minus	membrane protein, putative		0	protein-coding		ABC01140.1	1753	MCAP_0511
+CP000123.1	615007	617469		plus	uncharacterized gene		0	pseudogene				MCAP_0512
+CP000123.1	617508	619751		plus	lipoprotein, putative		0	protein-coding		ABC01224.1	747	MCAP_0513
+CP000123.1	619809	622079		plus	lipoprotein, putative		0	protein-coding		ABC01698.1	756	MCAP_0514
+CP000123.1	622111	623349		minus	ATPase, AAA family, putative		0	protein-coding		ABC01783.1	412	MCAP_0515
+CP000123.1	623462	625801		minus	ATP-dependent protease La	lon	0	protein-coding		ABC01709.1	779	MCAP_0516
+CP000123.1	625920	627206		minus	trigger factor	tig	0	protein-coding		ABC01541.1	428	MCAP_0517
+CP000123.1	627223	627525		minus	hypothetical protein		0	protein-coding		ABC01612.1	100	MCAP_0518
+CP000123.1	627543	628097		minus	translation elongation factor P	efp	0	protein-coding		ABC01563.1	184	MCAP_0519
+CP000123.1	628187	629140		minus	methionyl-tRNA formyltransferase	fmt	0	protein-coding		ABC01394.1	317	MCAP_0520
+CP000123.1	629130	631274		minus	conserved hypothetical protein		0	protein-coding		ABC01281.1	714	MCAP_0521
+CP000123.1	631351	631968		minus	membrane protein, putative		0	protein-coding		ABC01770.1	205	MCAP_0522
+CP000123.1	632010	633137		minus	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	trmU	0	protein-coding		ABC01435.1	375	MCAP_0523
+CP000123.1	633233	634117		minus	lipoprotein, putative		0	protein-coding		ABC01872.1	294	MCAP_0524
+CP000123.1	634769	635542		minus	lipoprotein, putative		0	protein-coding		ABC01870.1	257	MCAP_0525
+CP000123.1	635564	636367		minus	lipoprotein, putative		0	protein-coding		ABC01247.1	267	MCAP_0526
+CP000123.1	636581	637225		minus	conserved hypothetical protein		0	protein-coding		ABC01172.1	214	MCAP_0527
+CP000123.1	637250	637885		minus	MTA/SAH nucleosidase		0	protein-coding		ABC01418.1	211	MCAP_0528
+CP000123.1	637908	639011		minus	nicotinate (nicotinamide) nucleotide adenylyltransferase /conserved hypothetical domain		0	protein-coding		ABC01258.1	367	MCAP_0529
+CP000123.1	639029	639274		minus	membrane protein, putative		0	protein-coding		ABC01606.1	81	MCAP_0530
+CP000123.1	639292	640053		minus	NH3-dependent NAD+ synthetase		0	protein-coding		ABC01096.1	253	MCAP_0531
+CP000123.1	640031	641332		minus	Spo0B-associated GTP-binding protein, putative		0	protein-coding		ABC01456.1	433	MCAP_0532
+CP000123.1	641403	641711		minus	hypothetical protein		0	protein-coding		ABC01197.1	102	MCAP_0533
+CP000123.1	641701	642453		minus	conserved hypothetical protein		0	protein-coding		ABC01125.1	250	MCAP_0534
+CP000123.1	642510	642586		minus	uncharacterized gene		0	tRNA				MCAP_0535
+CP000123.1	642510	642586		minus	tRNA-Arg		0	other				MCAP_0535
+CP000123.1	642641	644245		minus	conserved hypothetical protein		0	protein-coding		ABC01789.1	534	MCAP_0536
+CP000123.1	644285	646138		minus	ABC transporter, ATP-binding/permease protein, putative		0	protein-coding		ABC01693.1	617	MCAP_0537
+CP000123.1	646156	648027		minus	ABC transporter, ATP-binding/permease protein, putative		0	protein-coding		ABC01740.1	623	MCAP_0538
+CP000123.1	648243	648548		minus	Single-strand binding protein family		0	protein-coding		ABC01470.1	101	MCAP_0539
+CP000123.1	648710	649948		plus	YeeE/YedE family protein, putative		0	protein-coding		ABC01600.1	412	MCAP_0540
+CP000123.1	649951	651747		plus	Conserved hypothetical protein		0	protein-coding		ABC01757.1	598	MCAP_0541
+CP000123.1	651769	652392		minus	ribonuclease HII, putative		0	protein-coding		ABC01661.1	207	MCAP_0542
+CP000123.1	652386	653336		minus	GTPase family protein		0	protein-coding		ABC01164.1	316	MCAP_0543
+CP000123.1	653429	653821		minus	50S ribosomal protein L19	rplS	0	protein-coding		ABC01862.1	130	MCAP_0544
+CP000123.1	653823	654545		minus	tRNA (guanine-N1)-methyltransferase	trmD	0	protein-coding		ABC01316.1	240	MCAP_0545
+CP000123.1	654547	655041		minus	16S rRNA processing protein RimM, putative		0	protein-coding		ABC01210.1	164	MCAP_0546
+CP000123.1	655059	655385		minus	30S ribosomal protein S16	rpsP	0	protein-coding		ABC01605.1	108	MCAP_0547
+CP000123.1	655474	655941		minus	conserved hypothetical cytosolic protein		0	protein-coding		ABC01555.1	155	MCAP_0548
+CP000123.1	655947	657290		minus	signal recognition particle protein	ffh	0	protein-coding		ABC01799.1	447	MCAP_0549
+CP000123.1	657320	658849		minus	HDIG/HD/KH domain protein		0	protein-coding		ABC01599.1	509	MCAP_0550
+CP000123.1	659001	659987		minus	recA protein	recA	0	protein-coding		ABC01320.1	328	MCAP_0551
+CP000123.1	660079	660627		minus	conserved hypothetical protein		0	protein-coding		ABC01117.1	182	MCAP_0552
+CP000123.1	660587	660932		minus	uncharacterized gene	rnpB	0	misc_RNA				MCAP_0553
+CP000123.1	660587	660932		minus	ribonuclease P RNA component	rnpB	0	other				MCAP_0553
+CP000123.1	661194	662042		plus	membrane protein, putative		0	protein-coding		ABC01877.1	282	MCAP_0554
+CP000123.1	662358	663597		plus	uncharacterized gene		0	pseudogene				MCAP_0555
+CP000123.1	663622	664455		plus	C-5 cytosine-specific DNA methylase		0	protein-coding		ABC01632.1	277	MCAP_0556
+CP000123.1	664567	665148		plus	membrane protein, putative		0	protein-coding		ABC01410.1	193	MCAP_0557
+CP000123.1	665588	665737		plus	hypothetical protein		0	protein-coding		ABC01300.1	49	MCAP_0558
+CP000123.1	666111	668111		plus	membrane protein, putative (TraG/TraD family)		0	protein-coding		ABC01219.1	666	MCAP_0559
+CP000123.1	668143	669558		plus	conserved hypothetical protein		0	protein-coding		ABC01347.1	471	MCAP_0560
+CP000123.1	669691	671172		plus	lipoprotein, putative		0	protein-coding		ABC01825.1	493	MCAP_0561
+CP000123.1	671184	671384		plus	hypothetical protein		0	protein-coding		ABC01703.1	66	MCAP_0562
+CP000123.1	671489	671815		plus	membrane protein, putative		0	protein-coding		ABC01229.1	108	MCAP_0563
+CP000123.1	671819	673462		plus	membrane protein, putative		0	protein-coding		ABC01112.1	547	MCAP_0564
+CP000123.1	673465	676302		plus	membrane protein, putative		0	protein-coding		ABC01647.1	945	MCAP_0565
+CP000123.1	676321	676944		plus	hypothetical protein		0	protein-coding		ABC01536.1	207	MCAP_0566
+CP000123.1	676937	680959		plus	membrane protein, putative		0	protein-coding		ABC01453.1	1340	MCAP_0567
+CP000123.1	681011	681991		plus	hypothetical protein		0	protein-coding		ABC01352.1	326	MCAP_0568
+CP000123.1	682175	682540		plus	hypothetical protein		0	protein-coding		ABC01861.1	121	MCAP_0569
+CP000123.1	682755	683672		plus	conserved hypothetical protein		0	protein-coding		ABC01668.1	305	MCAP_0570
+CP000123.1	683782	685014		plus	hypothetical protein		0	protein-coding		ABC01742.1	410	MCAP_0571
+CP000123.1	685488	685865		minus	conserved hypothetical protein		0	protein-coding		ABC01295.1	125	MCAP_0572
+CP000123.1	685929	686438		plus	recombination protein U, putative		0	protein-coding		ABC01565.1	169	MCAP_0573
+CP000123.1	686410	686946		minus	conserved hypothetical protein		0	protein-coding		ABC01072.1	178	MCAP_0574
+CP000123.1	687004	687276		minus	DNA-binding protein HU 1	hupA	0	protein-coding		ABC01879.1	90	MCAP_0575
+CP000123.1	687308	688306		minus	glycerol-3-phosphate dehydrogenase (NAD(P)+)	gpsA	0	protein-coding		ABC01184.1	332	MCAP_0576
+CP000123.1	688308	689615		minus	GTP-binding protein engA	engA	0	protein-coding		ABC01662.1	435	MCAP_0577
+CP000123.1	689615	690283		minus	cytidylate kinase	cmk	0	protein-coding		ABC01876.1	222	MCAP_0578
+CP000123.1	690292	690987		minus	membrane protein, putative		0	protein-coding		ABC01237.1	231	MCAP_0579
+CP000123.1	691056	691943		minus	membrane protein, putative		0	protein-coding		ABC01107.1	295	MCAP_0580
+CP000123.1	692084	692644		plus	inorganic pyrophosphatase	ppa	0	protein-coding		ABC01416.1	186	MCAP_0581
+CP000123.1	692752	693453		minus	hypothetical protein		0	protein-coding		ABC01308.1	233	MCAP_0582
+CP000123.1	693511	695775		minus	lipoprotein, putative		0	protein-coding		ABC01217.1	754	MCAP_0583
+CP000123.1	695820	695942		minus	lipoprotein, putative		0	protein-coding		ABC01775.1	40	MCAP_0584
+CP000123.1	696234	696569		minus	lipoprotein, putative		0	protein-coding		ABC01479.1	111	MCAP_0585
+CP000123.1	696604	698397		minus	ABC transporter, permease protein , putative		0	protein-coding		ABC01839.1	597	MCAP_0586
+CP000123.1	698444	700279		minus	ABC transporter, ATP-binding protein, putative		0	protein-coding		ABC01151.1	611	MCAP_0587
+CP000123.1	700570	701287		minus	uncharacterized gene		0	pseudogene				MCAP_0588
+CP000123.1	701486	702133		minus	ribulose-phosphate 3-epimerase, putative		0	protein-coding		ABC01438.1	215	MCAP_0589
+CP000123.1	702133	703941		minus	PTS system, IIBC component, putative		0	protein-coding		ABC01655.1	602	MCAP_0590
+CP000123.1	703953	704402		minus	PTS system, IIA component, putative		0	protein-coding		ABC01588.1	149	MCAP_0591
+CP000123.1	704691	704795		minus	hypothetical protein		0	protein-coding		ABC01678.1	34	MCAP_0592
+CP000123.1	704901	705830		minus	lipoprotein (VmcD)		0	protein-coding		ABC01149.1	309	MCAP_0593
+CP000123.1	706228	706662		minus	lipoprotein (VmcC)		0	protein-coding		ABC01480.1	144	MCAP_0594
+CP000123.1	707728	708435		minus	lipoprotein (VmcB)		0	protein-coding		ABC01423.1	235	MCAP_0595
+CP000123.1	709888	711366		minus	lipoprotein (VmcA)		0	protein-coding		ABC01550.1	492	MCAP_0596
+CP000123.1	711633	712460		minus	membrane protein, putative		0	protein-coding		ABC01660.1	275	MCAP_0597
+CP000123.1	712560	713273		minus	Conserved hypothetical cytosolic protein		0	protein-coding		ABC01187.1	237	MCAP_0598
+CP000123.1	713285	713902		minus	nucleoside kinase		0	protein-coding		ABC01193.1	205	MCAP_0599
+CP000123.1	713913	714671		minus	ribosomal large subunit pseudouridine synthase B		0	protein-coding		ABC01135.1	252	MCAP_0600
+CP000123.1	714745	715374		minus	chromosomal segregation and condensation protein B	scpB	0	protein-coding		ABC01855.1	209	MCAP_0601
+CP000123.1	715358	716194		minus	chromosomal segregation and condensation protein A	scpA	0	protein-coding		ABC01437.1	278	MCAP_0602
+CP000123.1	716204	716965		minus	membrane protein, putative		0	protein-coding		ABC01706.1	253	MCAP_0603
+CP000123.1	716977	718476		minus	membrane protein, putative		0	protein-coding		ABC01826.1	499	MCAP_0604
+CP000123.1	718785	719183		minus	lipoprotein, putative		0	protein-coding		ABC01231.1	132	MCAP_0605
+CP000123.1	719333	720127		minus	hydrolase, alpha/beta fold family		0	protein-coding		ABC01533.1	264	MCAP_0606
+CP000123.1	720139	722595		minus	lipoprotein, putative		0	protein-coding		ABC01469.1	818	MCAP_0607
+CP000123.1	722695	724239		minus	hypothetical protein		0	protein-coding		ABC01707.1	514	MCAP_0608
+CP000123.1	724303	724548		minus	Uncharacterised membrane protein, UPF0154 family		0	protein-coding		ABC01378.1	81	MCAP_0609
+CP000123.1	724564	726534		minus	transketolase	tkt	0	protein-coding		ABC01730.1	656	MCAP_0610
+CP000123.1	726575	726736		minus	conserved hypothetical protein		0	protein-coding		ABC01240.1	53	MCAP_0611
+CP000123.1	726871	727611		minus	membrane protein, putative		0	protein-coding		ABC01573.1	246	MCAP_0612
+CP000123.1	727710	728981		minus	glucose-inhibited division protein, putative		0	protein-coding		ABC01649.1	423	MCAP_0613
+CP000123.1	729282	730358		plus	membrane protein, putative		0	protein-coding		ABC01552.1	358	MCAP_0614
+CP000123.1	730500	730739		minus	conserved hypothetical protein		0	protein-coding		ABC01664.1	79	MCAP_0615
+CP000123.1	730932	731777		minus	fructose/tagatose bisphosphate aldolase, class II		0	protein-coding		ABC01322.1	281	MCAP_0616
+CP000123.1	731978	732712		plus	transcriptional regulator, DeoR family		0	protein-coding		ABC01368.1	244	MCAP_0617
+CP000123.1	732721	734607		plus	PTS system, IIBC components, putative		0	protein-coding		ABC01726.1	628	MCAP_0618
+CP000123.1	734620	735561		plus	1-phosphofructokinase		0	protein-coding		ABC01108.1	313	MCAP_0619
+CP000123.1	735640	737490		minus	membrane protein, putative		0	protein-coding		ABC01553.1	616	MCAP_0620
+CP000123.1	738045	738590		minus	membrane protein, putative		0	protein-coding		ABC01735.1	181	MCAP_0621
+CP000123.1	740123	741652		plus	membrane protein, putative		0	protein-coding		ABC01702.1	509	MCAP_0622
+CP000123.1	741987	743822		plus	metallo-beta-lactamase superfamily protein		0	protein-coding		ABC01265.1	611	MCAP_0623
+CP000123.1	743900	744853		plus	membrane protein, putative		0	protein-coding		ABC01389.1	317	MCAP_0624
+CP000123.1	745896	747140		plus	membrane protein, putative		0	protein-coding		ABC01159.1	414	MCAP_0625
+CP000123.1	747406	748809		plus	membrane protein, putative		0	protein-coding		ABC01262.1	467	MCAP_0626
+CP000123.1	749130	750881		plus	membrane protein, putative		0	protein-coding		ABC01835.1	583	MCAP_0627
+CP000123.1	750894	751562		plus	membrane protein, putative		0	protein-coding		ABC01276.1	222	MCAP_0628
+CP000123.1	751744	752391		plus	lipoprotein (VmcE)		0	protein-coding		ABC01755.1	215	MCAP_0629
+CP000123.1	753218	753748		plus	lipoprotein (VmcF)		0	protein-coding		ABC01374.1	176	MCAP_0630
+CP000123.1	753818	755032		minus	phosphoglycerate kinase	pgk	0	protein-coding		ABC01733.1	404	MCAP_0631
+CP000123.1	755160	756176		minus	glyceraldehyde-3-phosphate dehydrogenase	gap	0	protein-coding		ABC01869.1	338	MCAP_0632
+CP000123.1	756269	757204		minus	conserved hypothetical protein		0	protein-coding		ABC01136.1	311	MCAP_0633
+CP000123.1	757214	758398		minus	conserved hypothetical protein		0	protein-coding		ABC01221.1	394	MCAP_0634
+CP000123.1	758556	759380		minus	formamidopyrimidine-DNA glycosylase	mutM	0	protein-coding		ABC01345.1	274	MCAP_0635
+CP000123.1	759391	762126		minus	DNA polymerase I	polA	0	protein-coding		ABC01328.1	911	MCAP_0636
+CP000123.1	762135	765095		minus	DNA-directed DNA polymerase III (polc)	dnaE	0	protein-coding		ABC01433.1	986	MCAP_0637
+CP000123.1	765267	767921		plus	membrane protein, putative		0	protein-coding		ABC01133.1	884	MCAP_0638
+CP000123.1	768010	769254		minus	tyrosyl-tRNA synthetase	tyrS	0	protein-coding		ABC01092.1	414	MCAP_0639
+CP000123.1	769262	770323		minus	conserved hypothetical protein		0	protein-coding		ABC01203.1	353	MCAP_0640
+CP000123.1	770301	770933		minus	methionyl/phenylalanyl tRNA synthetase domain protein		0	protein-coding		ABC01769.1	210	MCAP_0641
+CP000123.1	770984	771823		plus	conserved hypothetical protein		0	protein-coding		ABC01867.1	279	MCAP_0642
+CP000123.1	771834	772685		plus	degV family protein		0	protein-coding		ABC01408.1	283	MCAP_0643
+CP000123.1	772721	772795		minus	uncharacterized gene		0	tRNA				MCAP_0644
+CP000123.1	772721	772795		minus	tRNA-Trp		0	other				MCAP_0644
+CP000123.1	772833	772908		minus	uncharacterized gene		0	tRNA				MCAP_0645
+CP000123.1	772833	772908		minus	tRNA-Sec		0	other				MCAP_0645
+CP000123.1	772982	773449		minus	transcriptional regulator, Fur family, putative		0	protein-coding		ABC01654.1	155	MCAP_0646
+CP000123.1	773451	773672		minus	acyl carrier protein, putative		0	protein-coding		ABC01337.1	73	MCAP_0647
+CP000123.1	773693	774061		minus	lipoprotein, putative		0	protein-coding		ABC01077.1	122	MCAP_0648
+CP000123.1	774048	775115		minus	conserved hypothetical protein		0	protein-coding		ABC01294.1	355	MCAP_0649
+CP000123.1	775217	775292		minus	uncharacterized gene		0	tRNA				MCAP_0650
+CP000123.1	775217	775292		minus	tRNA-His		0	other				MCAP_0650
+CP000123.1	775419	776351		minus	carbamate kinase	arcC	0	protein-coding		ABC01342.1	310	MCAP_0651
+CP000123.1	776470	777564		minus	peptidylarginine deiminase-related protein, putative		0	protein-coding		ABC01526.1	364	MCAP_0652
+CP000123.1	777571	778989		minus	amino acid permease family protein		0	protein-coding		ABC01180.1	472	MCAP_0653
+CP000123.1	779011	780108		minus	ornithine carbamoyltransferase	argF	0	protein-coding		ABC01353.1	365	MCAP_0654
+CP000123.1	780339	781226		plus	ABC transporter, ATP-binding protein		0	protein-coding		ABC01529.1	295	MCAP_0655
+CP000123.1	781228	781992		plus	ABC transporter, permease protein , putative		0	protein-coding		ABC01648.1	254	MCAP_0656
+CP000123.1	782026	782505		minus	membrane protein, putative		0	protein-coding		ABC01744.1	159	MCAP_0657
+CP000123.1	782589	784154		minus	membrane protein, putative		0	protein-coding		ABC01816.1	521	MCAP_0658
+CP000123.1	784221	786635		minus	leucyl-tRNA synthetase	leuS	0	protein-coding		ABC01150.1	804	MCAP_0659
+CP000123.1	786769	786845		minus	uncharacterized gene		0	tRNA				MCAP_0660
+CP000123.1	786769	786845		minus	tRNA-Ile		0	other				MCAP_0660
+CP000123.1	786903	789746		minus	lipoprotein, putative		0	protein-coding		ABC01461.1	947	MCAP_0661
+CP000123.1	789908	790306		minus	30S ribosomal protein S9	rpsI	0	protein-coding		ABC01381.1	132	MCAP_0662
+CP000123.1	790306	790761		minus	50S ribosomal protein L13	rplM	0	protein-coding		ABC01465.1	151	MCAP_0663
+CP000123.1	790881	795026		minus	membrane protein, putative		0	protein-coding		ABC01326.1	1381	MCAP_0664
+CP000123.1	795151	795900		minus	tRNA pseudouridine synthase A, putative		0	protein-coding		ABC01853.1	249	MCAP_0665
+CP000123.1	795902	796912		minus	cobalt ABC transporter, permease protein		0	protein-coding		ABC01715.1	336	MCAP_0666
+CP000123.1	796925	797794		minus	cobalt ABC transporter, ATP-binding protein, putative		0	protein-coding		ABC01119.1	289	MCAP_0667
+CP000123.1	797821	799047		minus	cobalt ABC transporter, ATP-binding protein, putative		0	protein-coding		ABC01207.1	408	MCAP_0668
+CP000123.1	799158	799517		minus	50S ribosomal protein L17	rplQ	0	protein-coding		ABC01711.1	119	MCAP_0669
+CP000123.1	799537	800490		minus	DNA-directed RNA polymerase, alpha chain	rpoA	0	protein-coding		ABC01546.1	317	MCAP_0670
+CP000123.1	800494	800883		minus	30S ribosomal protein S11	rpsK	0	protein-coding		ABC01431.1	129	MCAP_0671
+CP000123.1	800909	801274		minus	30S ribosomal protein S13	rpsM	0	protein-coding		ABC01343.1	121	MCAP_0672
+CP000123.1	801312	801425		minus	50S ribosomal protein L36	rpmJ	0	protein-coding		ABC01248.1	37	MCAP_0673
+CP000123.1	801495	801719		minus	translation initiation factor IF-1	infA	0	protein-coding		ABC01089.1	74	MCAP_0674
+CP000123.1	801731	802486		minus	methionine aminopeptidase, type I	map	0	protein-coding		ABC01688.1	251	MCAP_0675
+CP000123.1	802486	803127		minus	adenylate kinase	adk	0	protein-coding		ABC01363.1	213	MCAP_0676
+CP000123.1	803256	804704		minus	preprotein translocase, SecY subunit	secY	0	protein-coding		ABC01495.1	482	MCAP_0677
+CP000123.1	804704	805141		minus	50S ribosomal protein L15	rplO	0	protein-coding		ABC01617.1	145	MCAP_0678
+CP000123.1	805161	805925		minus	30S ribosomal protein S5	rpsE	0	protein-coding		ABC01587.1	254	MCAP_0679
+CP000123.1	805944	806294		minus	50S ribosomal protein L18	rplR	0	protein-coding		ABC01776.1	116	MCAP_0680
+CP000123.1	806320	806862		minus	50S ribosomal protein L6	rplF	0	protein-coding		ABC01554.1	180	MCAP_0681
+CP000123.1	806876	807265		minus	ribosomal protein S8	rpsH	0	protein-coding		ABC01650.1	129	MCAP_0682
+CP000123.1	807287	807472		minus	ribosomal protein S14p/S29e	rpsN	0	protein-coding		ABC01286.1	61	MCAP_0683
+CP000123.1	807491	808033		minus	ribosomal protein L5	rplE	0	protein-coding		ABC01395.1	180	MCAP_0684
+CP000123.1	808052	808378		minus	ribosomal protein L24	rplX	0	protein-coding		ABC01878.1	108	MCAP_0685
+CP000123.1	808392	808760		minus	ribosomal protein L14	rplN	0	protein-coding		ABC01415.1	122	MCAP_0686
+CP000123.1	808776	809033		minus	ribosomal protein S17	rpsQ	0	protein-coding		ABC01204.1	85	MCAP_0687
+CP000123.1	809033	809449		minus	ribosomal protein L29		0	protein-coding		ABC01318.1	138	MCAP_0688
+CP000123.1	809449	809862		minus	ribosomal protein L16	rplP	0	protein-coding		ABC01382.1	137	MCAP_0689
+CP000123.1	809865	810566		minus	ribosomal protein S3	rpsC	0	protein-coding		ABC01593.1	233	MCAP_0690
+CP000123.1	810584	810919		minus	ribosomal protein L22	rplV	0	protein-coding		ABC01503.1	111	MCAP_0691
+CP000123.1	810943	811209		minus	30S ribosomal protein S19	rpsS	0	protein-coding		ABC01777.1	88	MCAP_0692
+CP000123.1	811231	812076		minus	50S ribosomal protein L2	rplB	0	protein-coding		ABC01190.1	281	MCAP_0693
+CP000123.1	812129	812413		minus	50S ribosomal protein L23	rplW	0	protein-coding		ABC01471.1	94	MCAP_0694
+CP000123.1	812413	813039		minus	50S ribosomal protein L4	rplD	0	protein-coding		ABC01153.1	208	MCAP_0695
+CP000123.1	813052	813723		minus	50 ribosomal protein L3	rplC	0	protein-coding		ABC01734.1	223	MCAP_0696
+CP000123.1	813798	814106		minus	30S ribosomal protein S10	rpsJ	0	protein-coding		ABC01843.1	102	MCAP_0697
+CP000123.1	814402	815400		minus	dihydroxyacetone kinase family protein		0	protein-coding		ABC01580.1	332	MCAP_0698
+CP000123.1	815710	816549		plus	membrane protein, putative		0	protein-coding		ABC01641.1	279	MCAP_0699
+CP000123.1	816794	816869		minus	uncharacterized gene		0	tRNA				MCAP_0700
+CP000123.1	816794	816869		minus	tRNA-Thr		0	other				MCAP_0700
+CP000123.1	816882	816957		minus	uncharacterized gene		0	tRNA				MCAP_0701
+CP000123.1	816882	816957		minus	tRNA-Val		0	other				MCAP_0701
+CP000123.1	816965	817040		minus	uncharacterized gene		0	tRNA				MCAP_0702
+CP000123.1	816965	817040		minus	tRNA-Glu		0	other				MCAP_0702
+CP000123.1	817048	817123		minus	uncharacterized gene		0	tRNA				MCAP_0703
+CP000123.1	817048	817123		minus	tRNA-Asn		0	other				MCAP_0703
+CP000123.1	817226	818425		minus	lipoprotein, putative		0	protein-coding		ABC01409.1	399	MCAP_0704
+CP000123.1	818538	819233		minus	membrane protein, putative		0	protein-coding		ABC01439.1	231	MCAP_0705
+CP000123.1	819238	820092		minus	methylene-tetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase	folD	0	protein-coding		ABC01177.1	284	MCAP_0706
+CP000123.1	820101	821702		minus	potassium uptake protein, TrkH family, putative		0	protein-coding		ABC01725.1	533	MCAP_0707
+CP000123.1	821781	822509		plus	potassium uptake protein, TrkA family, putative		0	protein-coding		ABC01524.1	242	MCAP_0708
+CP000123.1	822546	823985		minus	glutamyl-tRNA(Gln) amidotransferase, B subunit	gatB	0	protein-coding		ABC01589.1	479	MCAP_0709
+CP000123.1	823987	825444		minus	glutamyl-tRNA(Gln) amidotransferase, A subunit	gatA	0	protein-coding		ABC01857.1	485	MCAP_0710
+CP000123.1	825444	825740		minus	glutamyl-tRNA(Gln) amidotransferase, C subunit	gatC	0	protein-coding		ABC01137.1	98	MCAP_0711
+CP000123.1	825742	827748		minus	DNA ligase, NAD-dependent	ligA	0	protein-coding		ABC01419.1	668	MCAP_0712
+CP000123.1	827752	829752		minus	membrane protein, putative		0	protein-coding		ABC01313.1	666	MCAP_0713
+CP000123.1	829755	830663		minus	ribosomal large subunit pseudouridine synthase, RluA family		0	protein-coding		ABC01670.1	302	MCAP_0714
+CP000123.1	830666	831676		minus	CAAX amino terminal protease family protein, putative		0	protein-coding		ABC01575.1	336	MCAP_0715
+CP000123.1	831735	832004		minus	phosphocarrier protein hpr	ptsH	0	protein-coding		ABC01760.1	89	MCAP_0716
+CP000123.1	832070	834238		minus	ATP-dependent DNA helicase pcrA	pcrA	0	protein-coding		ABC01643.1	722	MCAP_0717
+CP000123.1	834250	834996		minus	membrane protein, putative		0	protein-coding		ABC01571.1	248	MCAP_0718
+CP000123.1	834996	835952		minus	glycosyl transferase, group 2 family protein		0	protein-coding		ABC01863.1	318	MCAP_0719
+CP000123.1	836066	837283		minus	lipoprotein, putative		0	protein-coding		ABC01413.1	405	MCAP_0720
+CP000123.1	837411	838655		minus	lipoprotein, putative		0	protein-coding		ABC01280.1	414	MCAP_0721
+CP000123.1	838759	839688		minus	peptide methionine sulfoxide reductase msrA/msrB		0	protein-coding		ABC01583.1	309	MCAP_0722
+CP000123.1	839804	842017		minus	lipoprotein, putative		0	protein-coding		ABC01697.1	737	MCAP_0723
+CP000123.1	842026	842931		minus	membrane protein, putative		0	protein-coding		ABC01814.1	301	MCAP_0724
+CP000123.1	843048	844337		minus	conserved hypothetical protein		0	protein-coding		ABC01362.1	429	MCAP_0725
+CP000123.1	844625	845593		minus	conserved hypothetical protein		0	protein-coding		ABC01442.1	322	MCAP_0726
+CP000123.1	845783	848155		minus	lipoprotein, putative		0	protein-coding		ABC01871.1	790	MCAP_0727
+CP000123.1	848167	849066		minus	membrane protein, putative		0	protein-coding		ABC01570.1	299	MCAP_0728
+CP000123.1	849165	850913		minus	ABC transporter permease protein p69		0	protein-coding		ABC01198.1	582	MCAP_0729
+CP000123.1	850877	851626		minus	ABC transporter, ATP-binding protein		0	protein-coding		ABC01375.1	249	MCAP_0730
+CP000123.1	851627	853087		minus	ABC transporter, substrate-binding protein		0	protein-coding		ABC01093.1	486	MCAP_0731
+CP000123.1	853320	854183		minus	Cof-like hydrolase		0	protein-coding		ABC01445.1	287	MCAP_0732
+CP000123.1	854317	855510		plus	aminotransferase, classes I and II, putative		0	protein-coding		ABC01371.1	397	MCAP_0733
+CP000123.1	855520	855921		plus	endoribonuclease L-PSP, putative		0	protein-coding		ABC01833.1	133	MCAP_0734
+CP000123.1	855962	857209		minus	membrane protein, putative		0	protein-coding		ABC01118.1	415	MCAP_0735
+CP000123.1	857413	858684		minus	membrane protein, putative		0	protein-coding		ABC01590.1	423	MCAP_0736
+CP000123.1	858892	860133		minus	membrane protein, putative		0	protein-coding		ABC01720.1	413	MCAP_0737
+CP000123.1	860356	861696		minus	membrane protein, putative		0	protein-coding		ABC01596.1	446	MCAP_0738
+CP000123.1	861836	862984		plus	hypothetical protein		0	protein-coding		ABC01578.1	382	MCAP_0739
+CP000123.1	863181	863257		plus	uncharacterized gene		0	tRNA				MCAP_0740
+CP000123.1	863181	863257		plus	tRNA-Arg		0	other				MCAP_0740
+CP000123.1	863305	863381		plus	uncharacterized gene		0	tRNA				MCAP_0741
+CP000123.1	863305	863381		plus	tRNA-Pro		0	other				MCAP_0741
+CP000123.1	863392	863467		plus	uncharacterized gene		0	tRNA				MCAP_0742
+CP000123.1	863392	863467		plus	tRNA-Ala		0	other				MCAP_0742
+CP000123.1	863473	863549		plus	uncharacterized gene		0	tRNA				MCAP_0743
+CP000123.1	863473	863549		plus	tRNA-Met		0	other				MCAP_0743
+CP000123.1	863562	863638		plus	uncharacterized gene		0	tRNA				MCAP_0744
+CP000123.1	863562	863638		plus	tRNA-Met		0	other				MCAP_0744
+CP000123.1	863680	863772		plus	uncharacterized gene		0	tRNA				MCAP_0745
+CP000123.1	863680	863772		plus	tRNA-Ser		0	other				MCAP_0745
+CP000123.1	863795	863870		plus	uncharacterized gene		0	tRNA				MCAP_0746
+CP000123.1	863795	863870		plus	tRNA-Met		0	other				MCAP_0746
+CP000123.1	863873	863949		plus	uncharacterized gene		0	tRNA				MCAP_0747
+CP000123.1	863873	863949		plus	tRNA-Asp		0	other				MCAP_0747
+CP000123.1	863956	864031		plus	uncharacterized gene		0	tRNA				MCAP_0748
+CP000123.1	863956	864031		plus	tRNA-Phe		0	other				MCAP_0748
+CP000123.1	864129	864857		plus	glucosamine-6-phosphate isomerase	nagB1	0	protein-coding		ABC01222.1	242	MCAP_0749
+CP000123.1	864962	865708		plus	triosephosphate isomerase	tpiA	0	protein-coding		ABC01325.1	248	MCAP_0750
+CP000123.1	865701	866537		plus	HAD-superfamily hydrolase subfamily IIB, protein		0	protein-coding		ABC01173.1	278	MCAP_0751
+CP000123.1	866540	868135		plus	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	gpmI	0	protein-coding		ABC01874.1	531	MCAP_0752
+CP000123.1	868232	868831		plus	conserved hypothetical protein		0	protein-coding		ABC01626.1	199	MCAP_0753
+CP000123.1	868833	869831		plus	conserved hypothetical protein		0	protein-coding		ABC01490.1	332	MCAP_0754
+CP000123.1	869897	870565		minus	deoxyribose-phosphate aldolase	deoC	0	protein-coding		ABC01822.1	222	MCAP_0755
+CP000123.1	870577	872259		minus	phosphoglucomutase/phosphomannomutase		0	protein-coding		ABC01747.1	560	MCAP_0756
+CP000123.1	872424	873737		plus	pyrimidine-nucleoside phosphorylase	deoA	0	protein-coding		ABC01828.1	437	MCAP_0757
+CP000123.1	873824	875980		minus	lipoprotein, putative		0	protein-coding		ABC01102.1	718	MCAP_0758
+CP000123.1	876058	876639		minus	uncharacterized gene	ssrA	0	misc_RNA				MCAP_0759
+CP000123.1	876058	876639		minus	10Sa RNA	ssrA	0	other				MCAP_0759
+CP000123.1	876647	878050		plus	magnesium transporter	mgtE	0	protein-coding		ABC01212.1	467	MCAP_0760
+CP000123.1	878052	878714		plus	tRNA (guanine-N(7)-)-methyltransferase	trmB	0	protein-coding		ABC01304.1	220	MCAP_0761
+CP000123.1	879090	879680		minus	membrane protein, putative		0	protein-coding		ABC01350.1	196	MCAP_0762
+CP000123.1	879834	880520		minus	membrane protein, putative		0	protein-coding		ABC01354.1	228	MCAP_0763
+CP000123.1	880855	880977		minus	hypothetical protein		0	protein-coding		ABC01434.1	40	MCAP_0764
+CP000123.1	881281	881832		minus	hypoxanthine phosphoribosyltransferase	hpt2	0	protein-coding		ABC01778.1	183	MCAP_0765
+CP000123.1	881855	883153		minus	adenylosuccinate lyase	purB	0	protein-coding		ABC01105.1	432	MCAP_0766
+CP000123.1	883146	884444		minus	adenylosuccinate synthetase	purA	0	protein-coding		ABC01501.1	432	MCAP_0767
+CP000123.1	884729	885529		minus	deoxyribonuclease, TatD family		0	protein-coding		ABC01705.1	266	MCAP_0768
+CP000123.1	885696	885770		minus	uncharacterized gene		0	tRNA				MCAP_0769
+CP000123.1	885696	885770		minus	tRNA-Cys		0	other				MCAP_0769
+CP000123.1	885990	887348		plus	lipoprotein, putative		0	protein-coding		ABC01357.1	452	MCAP_0770
+CP000123.1	887434	888903		minus	membrane protein, putative		0	protein-coding		ABC01086.1	489	MCAP_0771
+CP000123.1	888906	889856		minus	conserved hypothetical protein		0	protein-coding		ABC01812.1	316	MCAP_0772
+CP000123.1	890143	892140		plus	excinuclease ABC, B subunit	uvrB	0	protein-coding		ABC01765.1	665	MCAP_0773
+CP000123.1	892149	894989		plus	excinuclease ABC, A subunit	uvrA	0	protein-coding		ABC01484.1	946	MCAP_0774
+CP000123.1	894982	896091		plus	folate synthetase-polyglutamyl folate synthetase	folC	0	protein-coding		ABC01358.1	369	MCAP_0775
+CP000123.1	896119	896793		plus	membrane protein, putative		0	protein-coding		ABC01659.1	224	MCAP_0776
+CP000123.1	896874	897815		plus	HPr(Ser) kinase/phosphatase		0	protein-coding		ABC01115.1	313	MCAP_0777
+CP000123.1	897826	899406		plus	prolipoprotein diacylglyceryl transferase	lgt1	0	protein-coding		ABC01460.1	526	MCAP_0778
+CP000123.1	899390	900322		plus	thioredoxin reductase	trxB	0	protein-coding		ABC01152.1	310	MCAP_0779
+CP000123.1	900331	901761		plus	prolipoprotein diacylglyceryl transferase	lgt2	0	protein-coding		ABC01619.1	476	MCAP_0780
+CP000123.1	901773	902702		plus	conserved hypothetical protein		0	protein-coding		ABC01699.1	309	MCAP_0781
+CP000123.1	903025	904158		minus	lipoprotein, putative		0	protein-coding		ABC01882.1	377	MCAP_0782
+CP000123.1	904220	905842		minus	PTS system, IIBC component, putative		0	protein-coding		ABC01250.1	540	MCAP_0783
+CP000123.1	905894	906124		minus	membrane protein, putative		0	protein-coding		ABC01121.1	76	MCAP_0784
+CP000123.1	906114	906833		minus	hypothetical protein		0	protein-coding		ABC01379.1	239	MCAP_0785
+CP000123.1	906833	907342		minus	hypothetical protein		0	protein-coding		ABC01515.1	169	MCAP_0786
+CP000123.1	907342	909021		minus	PTS system, IIBC component, putative		0	protein-coding		ABC01603.1	559	MCAP_0787
+CP000123.1	909644	909811		plus	transcriptional regulator, DeoR family, putative		0	protein-coding		ABC01880.1	55	MCAP_0788
+CP000123.1	909935	910906		plus	conserved hypothetical protein		0	protein-coding		ABC01685.1	323	MCAP_0789
+CP000123.1	911127	912845		plus	conserved hypothetical protein		0	protein-coding		ABC01786.1	572	MCAP_0790
+CP000123.1	912884	913699		minus	hypothetical protein		0	protein-coding		ABC01266.1	271	MCAP_0791
+CP000123.1	913892	915823		plus	DNA topoisomerase I	topA	0	protein-coding		ABC01120.1	643	MCAP_0792
+CP000123.1	916518	916622		plus	uncharacterized gene	mcs3	0	misc_RNA				MCAP_0793
+CP000123.1	916518	916622		plus	MCS3 RNA	mcs3	0	other				MCAP_0793
+CP000123.1	916628	917509		minus	membrane protein, putative		0	protein-coding		ABC01718.1	293	MCAP_0794
+CP000123.1	917496	918311		minus	membrane protein, putative		0	protein-coding		ABC01629.1	271	MCAP_0795
+CP000123.1	918301	919653		minus	lipoprotein, putative		0	protein-coding		ABC01452.1	450	MCAP_0796
+CP000123.1	919631	920335		minus	ABC transporter, ATP-binding protein		0	protein-coding		ABC01296.1	234	MCAP_0797
+CP000123.1	920337	922202		minus	ABC transporter, permease protein, putative		0	protein-coding		ABC01178.1	621	MCAP_0798
+CP000123.1	922342	923238		minus	lipoprotein, putative		0	protein-coding		ABC01087.1	298	MCAP_0799
+CP000123.1	923231	924070		minus	membrane protein, putative		0	protein-coding		ABC01211.1	279	MCAP_0800
+CP000123.1	924057	925010		minus	lipoprotein, putative		0	protein-coding		ABC01840.1	317	MCAP_0801
+CP000123.1	925029	926867		minus	membrane protein, putative		0	protein-coding		ABC01729.1	612	MCAP_0802
+CP000123.1	926975	928741		minus	C4-dicarboxylate anaerobic carrier superfamily		0	protein-coding		ABC01244.1	588	MCAP_0803
+CP000123.1	928810	929499		minus	zinc metalloprotease, putative		0	protein-coding		ABC01766.1	229	MCAP_0804
+CP000123.1	929506	930600		minus	GTP-dependent nucleic acid-binding protein engD	engD	0	protein-coding		ABC01637.1	364	MCAP_0805
+CP000123.1	930636	930836		minus	conserved hypothetical protein		0	protein-coding		ABC01427.1	66	MCAP_0806
+CP000123.1	930838	931533		minus	methyltransferase gidB	gidB	0	protein-coding		ABC01561.1	231	MCAP_0807
+CP000123.1	931533	932129		minus	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	pgsA	0	protein-coding		ABC01752.1	198	MCAP_0808
+CP000123.1	932231	933834		minus	uncharacterized gene		0	pseudogene				MCAP_0809
+CP000123.1	933920	934603		minus	membrane protein, putative		0	protein-coding		ABC01810.1	227	MCAP_0810
+CP000123.1	934569	936116		minus	membrane protein, putative		0	protein-coding		ABC01365.1	515	MCAP_0811
+CP000123.1	936175	938910		minus	magnesium-transporting ATPase, E1-E2 family, putative		0	protein-coding		ABC01512.1	911	MCAP_0812
+CP000123.1	938918	939544		minus	DNA-binding protein HU	hup	0	protein-coding		ABC01366.1	208	MCAP_0813
+CP000123.1	940433	941860		minus	transporter protein, putative		0	protein-coding		ABC01158.1	475	MCAP_0814
+CP000123.1	942121	943695		minus	membrane protein, putative		0	protein-coding		ABC01310.1	524	MCAP_0815
+CP000123.1	943860	944483		minus	conserved hypothetical protein		0	protein-coding		ABC01739.1	207	MCAP_0816
+CP000123.1	944540	945520		minus	aspartate--ammonia ligase	asnA	0	protein-coding		ABC01404.1	326	MCAP_0817
+CP000123.1	945932	946177		plus	30S ribosomal protein S20	rpsT	0	protein-coding		ABC01311.1	81	MCAP_0818
+CP000123.1	946228	947586		minus	tRNA modification GTPase TrmE	trmE	0	protein-coding		ABC01540.1	452	MCAP_0819
+CP000123.1	947790	948014		plus	conserved hypothetical protein		0	protein-coding		ABC01860.1	74	MCAP_0820
+CP000123.1	948123	949082		plus	glycoprotease family protein		0	protein-coding		ABC01727.1	319	MCAP_0821
+CP000123.1	949106	950236		plus	hypothetical protein		0	protein-coding		ABC01238.1	376	MCAP_0822
+CP000123.1	950247	951086		plus	hydrolase, haloacid dehalogenase-like family		0	protein-coding		ABC01097.1	279	MCAP_0823
+CP000123.1	951095	952459		plus	asparaginyl-tRNA synthetase	asnS	0	protein-coding		ABC01510.1	454	MCAP_0824
+CP000123.1	952728	954092		plus	phosphonate ABC transporter, phosphonate-binding protein, putative		0	protein-coding		ABC01321.1	454	MCAP_0825
+CP000123.1	954106	954858		plus	phosphonate ABC transporter, ATP-binding protein		0	protein-coding		ABC01208.1	250	MCAP_0826
+CP000123.1	954862	957597		plus	alkylphosphonate ABC transporter, permease protein		0	protein-coding		ABC01838.1	911	MCAP_0827
+CP000123.1	957622	959688		minus	metallo-beta-lactamase superfamily protein, putative		0	protein-coding		ABC01768.1	688	MCAP_0828
+CP000123.1	959880	959955		plus	uncharacterized gene		0	tRNA				MCAP_0829
+CP000123.1	959880	959955		plus	tRNA-Lys		0	other				MCAP_0829
+CP000123.1	959957	960040		plus	uncharacterized gene		0	tRNA				MCAP_0830
+CP000123.1	959957	960040		plus	tRNA-Leu		0	other				MCAP_0830
+CP000123.1	960320	961843		plus	uncharacterized gene	rrs-2	0	rRNA				MCAP_0831
+CP000123.1	960320	961843		plus	16S ribosomal RNA	rrs-2	0	other				MCAP_0831
+CP000123.1	962075	964968		plus	uncharacterized gene	rrl-2	0	rRNA				MCAP_0832
+CP000123.1	962075	964968		plus	23S ribosomal RNA	rrl-2	0	other				MCAP_0832
+CP000123.1	965045	965153		plus	uncharacterized gene	rrf-2	0	rRNA				MCAP_0833
+CP000123.1	965045	965153		plus	5S ribosomal RNA	rrf-2	0	other				MCAP_0833
+CP000123.1	965268	966110		plus	hydrolase, haloacid dehalogenase-like family, putative		0	protein-coding		ABC01579.1	280	MCAP_0834
+CP000123.1	966122	966430		plus	thioredoxin	trxA	0	protein-coding		ABC01273.1	102	MCAP_0835
+CP000123.1	966562	968064		minus	lysyl-tRNA synthetase	lysS	0	protein-coding		ABC01601.1	500	MCAP_0836
+CP000123.1	968067	968993		minus	tRNA-dihydrouridine synthase	dus	0	protein-coding		ABC01865.1	308	MCAP_0837
+CP000123.1	969043	969357		minus	hypothetical protein		0	protein-coding		ABC01675.1	104	MCAP_0838
+CP000123.1	969451	970719		minus	seryl-tRNA synthetase	serS	0	protein-coding		ABC01676.1	422	MCAP_0839
+CP000123.1	970800	971627		minus	membrane protein, putative		0	protein-coding		ABC01506.1	275	MCAP_0840
+CP000123.1	971695	972279		minus	membrane protein, putative		0	protein-coding		ABC01402.1	194	MCAP_0841
+CP000123.1	972298	972588		minus	membrane protein, putative		0	protein-coding		ABC01417.1	96	MCAP_0842
+CP000123.1	972758	974992		plus	lipoprotein, putative		0	protein-coding		ABC01319.1	744	MCAP_0843
+CP000123.1	975036	976778		minus	PTS system glucose-specific IIBC component		0	protein-coding		ABC01269.1	580	MCAP_0844
+CP000123.1	976887	977321		plus	bacterioferritin comigratory protein	bcp	0	protein-coding		ABC01163.1	144	MCAP_0845
+CP000123.1	977485	979575		plus	lipoprotein, putative		0	protein-coding		ABC01562.1	696	MCAP_0846
+CP000123.1	980325	981230		plus	conserved hypothetical protein		0	protein-coding		ABC01232.1	301	MCAP_0847
+CP000123.1	981284	981748		plus	transposase IS1296EH (ORFA), putative		0	protein-coding		ABC01620.1	154	MCAP_0848
+CP000123.1	981796	982449		minus	purine nucleoside phosphorylase	deoD	0	protein-coding		ABC01701.1	217	MCAP_0849
+CP000123.1	982682	983662		minus	hypothetical protein		0	protein-coding		ABC01467.1	326	MCAP_0850
+CP000123.1	983814	984512		plus	transcriptional regulator of the fructose operon, DeoR family		0	protein-coding		ABC01630.1	232	MCAP_0851
+CP000123.1	984512	985447		plus	1-phosphofructokinase, putative		0	protein-coding		ABC01796.1	311	MCAP_0852
+CP000123.1	985450	987486		plus	PTS system, fructose-specific family, IIABC components	fruA	0	protein-coding		ABC01695.1	678	MCAP_0853
+CP000123.1	988122	988697		plus	hypothetical protein		0	protein-coding		ABC01179.1	191	MCAP_0854
+CP000123.1	988866	989453		plus	conserved hypothetical protein		0	protein-coding		ABC01128.1	195	MCAP_0855
+CP000123.1	989799	991688		minus	glucose inhibited division protein A	gidA	0	protein-coding		ABC01073.1	629	MCAP_0856
+CP000123.1	991832	993400		minus	proton/glutamate symporter family protein		0	protein-coding		ABC01083.1	522	MCAP_0857
+CP000123.1	993422	994765		minus	pyridine nucleotide-disulphide oxidoreductase		0	protein-coding		ABC01199.1	447	MCAP_0858
+CP000123.1	994986	995486		plus	pyrazinamidase/nicotinamidase	pncA	0	protein-coding		ABC01708.1	166	MCAP_0859
+CP000123.1	995719	997977		minus	membrane protein, putative		0	protein-coding		ABC01807.1	752	MCAP_0860
+CP000123.1	997987	1000248		minus	conserved hypothetical protein		0	protein-coding		ABC01574.1	753	MCAP_0861
+CP000123.1	1000520	1002772		minus	membrane protein, putative		0	protein-coding		ABC01376.1	750	MCAP_0862
+CP000123.1	1002796	1003617		minus	hypothetical protein		0	protein-coding		ABC01278.1	273	MCAP_0863
+CP000123.1	1003625	1005037		minus	conserved hypothetical protein		0	protein-coding		ABC01099.1	470	MCAP_0864
+CP000123.1	1005242	1006399		minus	membrane protein, putative		0	protein-coding		ABC01385.1	385	MCAP_0865
+CP000123.1	1006457	1007173		minus	conserved hypothetical protein		0	protein-coding		ABC01532.1	238	MCAP_0866
+CP000123.1	1007173	1007970		minus	Cof-like hydrolase		0	protein-coding		ABC01109.1	265	MCAP_0867
+CP000123.1	1008050	1009216		minus	membrane protein oxaA		0	protein-coding		ABC01268.1	388	MCAP_0868
+CP000123.1	1009258	1009587		minus	ribonuclease P protein component	rnpA	0	protein-coding		ABC01335.1	109	MCAP_0869
+CP000123.1	1009594	1009728		minus	50S ribosomal protein L34	rpmH	0	protein-coding		ABC01390.1	44	MCAP_0870
